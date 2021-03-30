@@ -1,0 +1,1307 @@
+﻿Case Nr,Case Record Type,Subject,Age in Days,Case Origin,Potential Liability,Case Reason,Status,First Contact Resolution,Priority,CSAT
+CN-0000001,CSAT,CN-0000001 - Equipment Complexity - Phone,22,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000002,CSAT,CN-0000002 - Equipment Complexity - Chat,38,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000003,CSAT,CN-0000003 - Installation - Phone,26,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000004,CSAT,CN-0000004 - Equipment Complexity - Phone,35,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000005,CSAT,CN-0000005 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000006,CSAT,CN-0000006 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000007,CSAT,CN-0000007 - Installation - Phone,54,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000008,CSAT,CN-0000008 - Performance - Phone,2,Phone,TRUE,Performance,New,TRUE,Low,-3600
+CN-0000009,CSAT,CN-0000009 - Installation - Phone,27,Phone,FALSE,Installation,Closed,FALSE,Low,1500
+CN-0000010,CSAT,CN-0000010 - Equipment Complexity - Chat,14,Chat,FALSE,Equipment Complexity,Working,FALSE,Medium,6000
+CN-0000011,CSAT,CN-0000011 - Equipment Complexity - Phone,4,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2400
+CN-0000012,CSAT,CN-0000012 - Installation - Phone,58,Phone,FALSE,Installation,Working,FALSE,High,900
+CN-0000013,CSAT,CN-0000013 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000014,CSAT,CN-0000014 - Equipment Complexity - Phone,39,Phone,TRUE,Equipment Complexity,Attention,TRUE,Low,-3600
+CN-0000015,CSAT,CN-0000015 - Installation - Phone,14,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000016,CSAT,CN-0000016 - Installation - Phone,55,Phone,FALSE,Installation,Working,FALSE,Medium,600
+CN-0000017,CSAT,CN-0000017 - Breakdown - Email,2,Email,TRUE,Breakdown,New,TRUE,Low,-9000
+CN-0000018,CSAT,CN-0000018 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,Medium,600
+CN-0000019,CSAT,CN-0000019 - Equipment Complexity - Phone,31,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-800
+CN-0000020,CSAT,CN-0000020 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,Low,1200
+CN-0000021,CSAT,CN-0000021 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000022,CSAT,CN-0000022 - Installation - Phone,34,Phone,TRUE,Installation,Working,FALSE,Medium,600
+CN-0000023,CSAT,CN-0000023 - Installation - Email,15,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000024,CSAT,CN-0000024 - Installation - Phone,28,Phone,TRUE,Installation,Working,FALSE,High,1125
+CN-0000025,CSAT,CN-0000025 - Performance - Phone,8,Phone,FALSE,Performance,New,TRUE,Low,-4800
+CN-0000026,CSAT,CN-0000026 - Equipment Complexity - Phone,38,Phone,FALSE,Equipment Complexity,Attention,FALSE,Low,4800
+CN-0000027,CSAT,CN-0000027 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000028,CSAT,CN-0000028 - Performance - Phone,19,Phone,TRUE,Performance,Closed,TRUE,High,-13500
+CN-0000029,CSAT,CN-0000029 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000030,CSAT,CN-0000030 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000031,CSAT,CN-0000031 - Installation - Chat,40,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000032,CSAT,CN-0000032 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000033,CSAT,CN-0000033 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000034,CSAT,CN-0000034 - Installation - Phone,66,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000035,CSAT,CN-0000035 - Equipment Complexity - Chat,28,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-6750
+CN-0000036,CSAT,CN-0000036 - Equipment Complexity - Phone,42,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0000037,CSAT,CN-0000037 - Installation - Chat,30,Chat,TRUE,Installation,Working,FALSE,Low,900
+CN-0000038,CSAT,CN-0000038 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000039,CSAT,CN-0000039 - Equipment Design - Phone,18,Phone,FALSE,Equipment Design,Working,TRUE,Low,-1500
+CN-0000040,CSAT,CN-0000040 - Equipment Complexity - Chat,14,Chat,FALSE,Equipment Complexity,Working,FALSE,Low,3000
+CN-0000041,CSAT,CN-0000041 - Equipment Complexity - Phone,40,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-800
+CN-0000042,CSAT,CN-0000042 - Equipment Complexity - Phone,27,Phone,FALSE,Equipment Complexity,Working,TRUE,Medium,-2000
+CN-0000043,CSAT,CN-0000043 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000044,CSAT,CN-0000044 - Equipment Complexity - Chat,3,Chat,FALSE,Equipment Complexity,Closed,FALSE,Medium,21600
+CN-0000045,CSAT,CN-0000045 - Installation - Email,19,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000046,CSAT,CN-0000046 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000047,CSAT,CN-0000047 - Equipment Complexity - Email,30,Email,TRUE,Equipment Complexity,Working,TRUE,Low,-1200
+CN-0000048,CSAT,CN-0000048 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000049,CSAT,CN-0000049 - Equipment Design - Chat,30,Chat,TRUE,Equipment Design,Working,TRUE,Low,-2700
+CN-0000050,CSAT,CN-0000050 - Equipment Complexity - Phone,18,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-1000
+CN-0000051,CSAT,CN-0000051 - Breakdown - Phone,7,Phone,TRUE,Breakdown,New,TRUE,Low,-4500
+CN-0000052,CSAT,CN-0000052 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000053,CSAT,CN-0000053 - Equipment Complexity - Chat,49,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000054,CSAT,CN-0000054 - Equipment Complexity - Phone,29,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0000055,CSAT,CN-0000055 - Installation - Chat,65,Chat,TRUE,Installation,New,TRUE,High,-4050
+CN-0000056,CSAT,CN-0000056 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000057,CSAT,CN-0000057 - Installation - Phone,21,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000058,CSAT,CN-0000058 - Installation - Chat,29,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000059,CSAT,CN-0000059 - Equipment Complexity - Phone,5,Phone,FALSE,Equipment Complexity,Closed,FALSE,Medium,7200
+CN-0000060,CSAT,CN-0000060 - Feedback - Phone,11,Phone,TRUE,Feedback,Closed,TRUE,Low,-6750
+CN-0000061,CSAT,CN-0000061 - Installation - Chat,22,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000062,CSAT,CN-0000062 - Equipment Complexity - Phone,45,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0000063,CSAT,CN-0000063 - Performance - Phone,4,Phone,TRUE,Performance,Closed,TRUE,Low,-5400
+CN-0000064,CSAT,CN-0000064 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000065,CSAT,CN-0000065 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,New,FALSE,Low,3600
+CN-0000066,CSAT,CN-0000066 - Installation - Phone,29,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000067,CSAT,CN-0000067 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000068,CSAT,CN-0000068 - Breakdown - Phone,17,Phone,FALSE,Breakdown,Closed,FALSE,Low,7500
+CN-0000069,CSAT,CN-0000069 - Equipment Design - Phone,26,Phone,TRUE,Equipment Design,Working,TRUE,Low,-1125
+CN-0000070,CSAT,CN-0000070 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000071,CSAT,CN-0000071 - Feedback - Phone,16,Phone,FALSE,Feedback,Closed,TRUE,Low,-9000
+CN-0000072,CSAT,CN-0000072 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000073,CSAT,CN-0000073 - Equipment Complexity - Chat,26,Chat,TRUE,Equipment Complexity,Working,TRUE,Low,-2250
+CN-0000074,CSAT,CN-0000074 - Installation - Phone,32,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000075,CSAT,CN-0000075 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000076,CSAT,CN-0000076 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000077,CSAT,CN-0000077 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000078,CSAT,CN-0000078 - Installation - Phone,1,Phone,TRUE,Installation,Closed,FALSE,Medium,2700
+CN-0000079,CSAT,CN-0000079 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Low,400
+CN-0000080,CSAT,CN-0000080 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000081,CSAT,CN-0000081 - Installation - Phone,29,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000082,CSAT,CN-0000082 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000083,CSAT,CN-0000083 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,High,-1125
+CN-0000084,CSAT,CN-0000084 - Installation - Phone,17,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000085,CSAT,CN-0000085 - Performance - Phone,33,Phone,FALSE,Performance,Working,FALSE,Low,1600
+CN-0000086,CSAT,CN-0000086 - Equipment Complexity - Phone,16,Phone,TRUE,Equipment Complexity,Waiting on Customer,TRUE,Low,-3000
+CN-0000087,CSAT,CN-0000087 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000088,CSAT,CN-0000088 - Performance - Phone,23,Phone,FALSE,Performance,Closed,FALSE,High,18000
+CN-0000089,CSAT,CN-0000089 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000090,CSAT,CN-0000090 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000091,CSAT,CN-0000091 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000092,CSAT,CN-0000092 - Equipment Complexity - Phone,46,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0000093,CSAT,CN-0000093 - Equipment Complexity - Phone,26,Phone,TRUE,Equipment Complexity,Closed,TRUE,Low,-2250
+CN-0000094,CSAT,CN-0000094 - Installation - Phone,59,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000095,CSAT,CN-0000095 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000096,CSAT,CN-0000096 - Installation - Chat,71,Chat,TRUE,Installation,Working,TRUE,High,-1350
+CN-0000097,CSAT,CN-0000097 - Installation - Chat,23,Chat,TRUE,Installation,New,FALSE,High,6750
+CN-0000098,CSAT,CN-0000098 - Installation - Phone,34,Phone,FALSE,Installation,New,FALSE,Medium,1600
+CN-0000099,CSAT,CN-0000099 - Equipment Complexity - Phone,34,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0000100,CSAT,CN-0000100 - Installation - Phone,28,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000101,CSAT,CN-0000101 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000102,CSAT,CN-0000102 - Installation - Phone,21,Phone,TRUE,Installation,New,TRUE,High,-2250
+CN-0000103,CSAT,CN-0000103 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000104,CSAT,CN-0000104 - Equipment Design - Phone,37,Phone,TRUE,Equipment Design,Working,TRUE,Low,-900
+CN-0000105,CSAT,CN-0000105 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000106,CSAT,CN-0000106 - Installation - Phone,21,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000107,CSAT,CN-0000107 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000108,CSAT,CN-0000108 - Installation - Phone,38,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000109,CSAT,CN-0000109 - Equipment Complexity - Email,30,Email,FALSE,Equipment Complexity,Working,FALSE,Low,1600
+CN-0000110,CSAT,CN-0000110 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000111,CSAT,CN-0000111 - Equipment Complexity - Chat,15,Chat,FALSE,Equipment Complexity,Working,TRUE,Low,-3000
+CN-0000112,CSAT,CN-0000112 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000113,CSAT,CN-0000113 - Equipment Complexity - Phone,20,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-1000
+CN-0000114,CSAT,CN-0000114 - Installation - Chat,17,Chat,FALSE,Installation,Working,TRUE,Low,-1500
+CN-0000115,CSAT,CN-0000115 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000116,CSAT,CN-0000116 - Installation - Email,71,Email,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000117,CSAT,CN-0000117 - Equipment Complexity - Phone,29,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0000118,CSAT,CN-0000118 - Installation - Chat,24,Chat,TRUE,Installation,New,TRUE,High,-6750
+CN-0000119,CSAT,CN-0000119 - Breakdown - Phone,2,Phone,FALSE,Breakdown,Closed,TRUE,Low,-9000
+CN-0000120,CSAT,CN-0000120 - Equipment Design - Phone,21,Phone,TRUE,Equipment Design,Working,TRUE,Medium,-2250
+CN-0000121,CSAT,CN-0000121 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000122,CSAT,CN-0000122 - Equipment Complexity - Chat,33,Chat,TRUE,Equipment Complexity,Working,TRUE,Medium,-3600
+CN-0000123,CSAT,CN-0000123 - Installation - Phone,33,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000124,CSAT,CN-0000124 - Installation - Phone,54,Phone,TRUE,Installation,New,TRUE,High,-1350
+CN-0000125,CSAT,CN-0000125 - Equipment Complexity - Chat,12,Chat,TRUE,Equipment Complexity,Working,FALSE,Low,2250
+CN-0000126,CSAT,CN-0000126 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000127,CSAT,CN-0000127 - Installation - Phone,24,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000128,CSAT,CN-0000128 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,New,FALSE,Low,4800
+CN-0000129,CSAT,CN-0000129 - Installation - Phone,45,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000130,CSAT,CN-0000130 - Installation - Chat,33,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000131,CSAT,CN-0000131 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000132,CSAT,CN-0000132 - Equipment Complexity - Phone,47,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-800
+CN-0000133,CSAT,CN-0000133 - Equipment Complexity - Phone,29,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0000134,CSAT,CN-0000134 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000135,CSAT,CN-0000135 - Installation - Chat,23,Chat,TRUE,Installation,Working,TRUE,Medium,-2250
+CN-0000136,CSAT,CN-0000136 - Installation - Phone,19,Phone,FALSE,Installation,Closed,FALSE,High,4500
+CN-0000137,CSAT,CN-0000137 - Equipment Complexity - Phone,37,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0000138,CSAT,CN-0000138 - Installation - Phone,16,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000139,CSAT,CN-0000139 - Installation - Chat,24,Chat,TRUE,Installation,Working,TRUE,High,-3375
+CN-0000140,CSAT,CN-0000140 - Installation - Chat,30,Chat,FALSE,Installation,Closed,TRUE,Low,-3600
+CN-0000141,CSAT,CN-0000141 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000142,CSAT,CN-0000142 - Equipment Complexity - Phone,24,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,1000
+CN-0000143,CSAT,CN-0000143 - Installation - Email,19,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0000144,CSAT,CN-0000144 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000145,CSAT,CN-0000145 - Equipment Complexity - Phone,19,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-3000
+CN-0000146,CSAT,CN-0000146 - Installation - Phone,27,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000147,CSAT,CN-0000147 - Equipment Design - Phone,9,Phone,FALSE,Equipment Design,Closed,TRUE,Low,-5400
+CN-0000148,CSAT,CN-0000148 - Installation - Phone,37,Phone,TRUE,Installation,Closed,TRUE,Medium,-1800
+CN-0000149,CSAT,CN-0000149 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000150,CSAT,CN-0000150 - Installation - Phone,51,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000151,CSAT,CN-0000151 - Equipment Complexity - Phone,22,Phone,FALSE,Equipment Complexity,Working,FALSE,High,3000
+CN-0000152,CSAT,CN-0000152 - Installation - Phone,56,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000153,CSAT,CN-0000153 - Installation - Phone,41,Phone,TRUE,Installation,Closed,TRUE,Low,-900
+CN-0000154,CSAT,CN-0000154 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000155,CSAT,CN-0000155 - Installation - Chat,51,Chat,TRUE,Installation,New,TRUE,High,-4050
+CN-0000156,CSAT,CN-0000156 - Installation - Email,16,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000157,CSAT,CN-0000157 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000158,CSAT,CN-0000158 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000159,CSAT,CN-0000159 - Other - Phone,30,Phone,TRUE,Other,Closed,TRUE,Low,-8100
+CN-0000160,CSAT,CN-0000160 - Installation - Phone,44,Phone,TRUE,Installation,New,TRUE,Low,-600
+CN-0000161,CSAT,CN-0000161 - Installation - Phone,40,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000162,CSAT,CN-0000162 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000163,CSAT,CN-0000163 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000164,CSAT,CN-0000164 - Breakdown - Phone,1,Phone,TRUE,Breakdown,New,TRUE,Low,-4500
+CN-0000165,CSAT,CN-0000165 - Installation - Phone,9,Phone,TRUE,Installation,Closed,FALSE,Low,1350
+CN-0000166,CSAT,CN-0000166 - Installation - Phone,30,Phone,FALSE,Installation,New,FALSE,High,2400
+CN-0000167,CSAT,CN-0000167 - Equipment Complexity - Phone,45,Phone,FALSE,Equipment Complexity,Escalated,TRUE,Low,-4000
+CN-0000168,CSAT,CN-0000168 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000169,CSAT,CN-0000169 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000170,CSAT,CN-0000170 - Installation - Phone,61,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000171,CSAT,CN-0000171 - Breakdown - Email,4,Email,TRUE,Breakdown,New,TRUE,Low,-9000
+CN-0000172,CSAT,CN-0000172 - Equipment Complexity - Phone,1,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2400
+CN-0000173,CSAT,CN-0000173 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000174,CSAT,CN-0000174 - Installation - Chat,56,Chat,TRUE,Installation,Working,TRUE,High,-2025
+CN-0000175,CSAT,CN-0000175 - Equipment Complexity - Phone,18,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1500
+CN-0000176,CSAT,CN-0000176 - Performance - Phone,30,Phone,TRUE,Performance,New,TRUE,Low,-2400
+CN-0000177,CSAT,CN-0000177 - Installation - Chat,50,Chat,FALSE,Installation,Working,TRUE,High,-2700
+CN-0000178,CSAT,CN-0000178 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000179,CSAT,CN-0000179 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000180,CSAT,CN-0000180 - Other - Phone,30,Phone,FALSE,Other,Closed,TRUE,Low,-10800
+CN-0000181,CSAT,CN-0000181 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Medium,-1800
+CN-0000182,CSAT,CN-0000182 - Breakdown - Phone,9,Phone,TRUE,Breakdown,Closed,TRUE,Low,-6750
+CN-0000183,CSAT,CN-0000183 - Equipment Design - Phone,1,Phone,TRUE,Equipment Design,New,FALSE,Medium,5400
+CN-0000184,CSAT,CN-0000184 - Installation - Phone,4,Phone,FALSE,Installation,Closed,FALSE,Low,1800
+CN-0000185,CSAT,CN-0000185 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000186,CSAT,CN-0000186 - Equipment Complexity - Email,30,Email,FALSE,Equipment Complexity,Working,FALSE,Low,1600
+CN-0000187,CSAT,CN-0000187 - Installation - Phone,45,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000188,CSAT,CN-0000188 - Equipment Complexity - Email,40,Email,TRUE,Equipment Complexity,New,TRUE,Low,-2400
+CN-0000189,CSAT,CN-0000189 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000190,CSAT,CN-0000190 - Installation - Phone,32,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000191,CSAT,CN-0000191 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000192,CSAT,CN-0000192 - Equipment Complexity - Phone,19,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,1000
+CN-0000193,CSAT,CN-0000193 - Equipment Complexity - Phone,3,Phone,TRUE,Equipment Complexity,New,FALSE,Medium,3600
+CN-0000194,CSAT,CN-0000194 - Installation - Chat,44,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000195,CSAT,CN-0000195 - Installation - Chat,58,Chat,FALSE,Installation,Working,FALSE,High,2700
+CN-0000196,CSAT,CN-0000196 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000197,CSAT,CN-0000197 - Installation - Phone,42,Phone,TRUE,Installation,New,TRUE,Low,-600
+CN-0000198,CSAT,CN-0000198 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000199,CSAT,CN-0000199 - Installation - Phone,24,Phone,FALSE,Installation,Working,TRUE,Medium,-1000
+CN-0000200,CSAT,CN-0000200 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000201,CSAT,CN-0000201 - Other - Phone,30,Phone,TRUE,Other,Closed,TRUE,Low,-8100
+CN-0000202,CSAT,CN-0000202 - Installation - Phone,34,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000203,CSAT,CN-0000203 - Installation - Chat,46,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000204,CSAT,CN-0000204 - Installation - Phone,18,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000205,CSAT,CN-0000205 - Installation - Phone,2,Phone,FALSE,Installation,New,TRUE,Low,-1200
+CN-0000206,CSAT,CN-0000206 - Equipment Complexity - Phone,32,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000207,CSAT,CN-0000207 - Installation - Chat,26,Chat,TRUE,Installation,Working,FALSE,Low,1125
+CN-0000208,CSAT,CN-0000208 - Installation - Email,16,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000209,CSAT,CN-0000209 - Installation - Chat,40,Chat,TRUE,Installation,Working,FALSE,High,2700
+CN-0000210,CSAT,CN-0000210 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000211,CSAT,CN-0000211 - Installation - Phone,35,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000212,CSAT,CN-0000212 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000213,CSAT,CN-0000213 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000214,CSAT,CN-0000214 - Equipment Complexity - Email,30,Email,TRUE,Equipment Complexity,Working,TRUE,Low,-1200
+CN-0000215,CSAT,CN-0000215 - Equipment Complexity - Chat,31,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000216,CSAT,CN-0000216 - Installation - Phone,27,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000217,CSAT,CN-0000217 - Equipment Complexity - Phone,42,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0000218,CSAT,CN-0000218 - Installation - Chat,32,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000219,CSAT,CN-0000219 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000220,CSAT,CN-0000220 - Installation - Phone,16,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000221,CSAT,CN-0000221 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000222,CSAT,CN-0000222 - Installation - Phone,51,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000223,CSAT,CN-0000223 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000224,CSAT,CN-0000224 - Equipment Complexity - Phone,38,Phone,TRUE,Equipment Complexity,Working,FALSE,High,1800
+CN-0000225,CSAT,CN-0000225 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000226,CSAT,CN-0000226 - Installation - Phone,19,Phone,TRUE,Installation,Working,FALSE,Medium,750
+CN-0000227,CSAT,CN-0000227 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000228,CSAT,CN-0000228 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000229,CSAT,CN-0000229 - Performance - Phone,30,Phone,FALSE,Performance,New,TRUE,Low,-3200
+CN-0000230,CSAT,CN-0000230 - Equipment Complexity - Phone,35,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000231,CSAT,CN-0000231 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000232,CSAT,CN-0000232 - Installation - Phone,59,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000233,CSAT,CN-0000233 - Breakdown - Phone,5,Phone,FALSE,Breakdown,Closed,FALSE,Low,9000
+CN-0000234,CSAT,CN-0000234 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000235,CSAT,CN-0000235 - Installation - Phone,30,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000236,CSAT,CN-0000236 - Equipment Complexity - Phone,44,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0000237,CSAT,CN-0000237 - Installation - Phone,8,Phone,FALSE,Installation,Closed,FALSE,Medium,3600
+CN-0000238,CSAT,CN-0000238 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000239,CSAT,CN-0000239 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000240,CSAT,CN-0000240 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,TRUE,Low,-2400
+CN-0000241,CSAT,CN-0000241 - Equipment Complexity - Email,30,Email,FALSE,Equipment Complexity,Working,FALSE,Low,1600
+CN-0000242,CSAT,CN-0000242 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000243,CSAT,CN-0000243 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000244,CSAT,CN-0000244 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000245,CSAT,CN-0000245 - Equipment Design - Email,44,Email,TRUE,Equipment Design,Working,TRUE,High,-5400
+CN-0000246,CSAT,CN-0000246 - Installation - Phone,25,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000247,CSAT,CN-0000247 - Installation - Phone,24,Phone,FALSE,Installation,Closed,FALSE,Medium,3000
+CN-0000248,CSAT,CN-0000248 - Equipment Complexity - Phone,37,Phone,TRUE,Equipment Complexity,New,FALSE,High,3600
+CN-0000249,CSAT,CN-0000249 - Equipment Complexity - Phone,54,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-900
+CN-0000250,CSAT,CN-0000250 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000251,CSAT,CN-0000251 - Equipment Complexity - Phone,29,Phone,FALSE,Equipment Complexity,New,TRUE,Low,-2000
+CN-0000252,CSAT,CN-0000252 - Installation - Phone,62,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000253,CSAT,CN-0000253 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000254,CSAT,CN-0000254 - Installation - Phone,41,Phone,FALSE,Installation,Closed,TRUE,Low,-1200
+CN-0000255,CSAT,CN-0000255 - Installation - Chat,29,Chat,FALSE,Installation,Closed,FALSE,Low,4500
+CN-0000256,CSAT,CN-0000256 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000257,CSAT,CN-0000257 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000258,CSAT,CN-0000258 - Installation - Chat,35,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000259,CSAT,CN-0000259 - Installation - Phone,50,Phone,FALSE,Installation,New,FALSE,Medium,1200
+CN-0000260,CSAT,CN-0000260 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000261,CSAT,CN-0000261 - Breakdown - Phone,3,Phone,TRUE,Breakdown,Closed,FALSE,Low,6750
+CN-0000262,CSAT,CN-0000262 - Equipment Complexity - Phone,52,Phone,TRUE,Equipment Complexity,New,TRUE,High,-2700
+CN-0000263,CSAT,CN-0000263 - Installation - Phone,40,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000264,CSAT,CN-0000264 - Installation - Email,30,Email,FALSE,Installation,Working,TRUE,Low,-800
+CN-0000265,CSAT,CN-0000265 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000266,CSAT,CN-0000266 - Breakdown - Phone,16,Phone,TRUE,Breakdown,New,TRUE,Low,-3750
+CN-0000267,CSAT,CN-0000267 - Equipment Complexity - Phone,25,Phone,TRUE,Equipment Complexity,Working,FALSE,Low,750
+CN-0000268,CSAT,CN-0000268 - Installation - Phone,58,Phone,FALSE,Installation,New,FALSE,High,1800
+CN-0000269,CSAT,CN-0000269 - Installation - Phone,35,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000270,CSAT,CN-0000270 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000271,CSAT,CN-0000271 - Installation - Phone,25,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000272,CSAT,CN-0000272 - Installation - Phone,41,Phone,FALSE,Installation,New,FALSE,Medium,1600
+CN-0000273,CSAT,CN-0000273 - Installation - Chat,37,Chat,TRUE,Installation,New,TRUE,High,-5400
+CN-0000274,CSAT,CN-0000274 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000275,CSAT,CN-0000275 - Equipment Complexity - Phone,63,Phone,FALSE,Equipment Complexity,Working,FALSE,High,1800
+CN-0000276,CSAT,CN-0000276 - Installation - Phone,45,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000277,CSAT,CN-0000277 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000278,CSAT,CN-0000278 - Breakdown - Email,7,Email,TRUE,Breakdown,New,TRUE,Low,-9000
+CN-0000279,CSAT,CN-0000279 - Equipment Complexity - Phone,35,Phone,FALSE,Equipment Complexity,New,FALSE,Low,1600
+CN-0000280,CSAT,CN-0000280 - Installation - Email,65,Email,TRUE,Installation,Working,TRUE,Low,-450
+CN-0000281,CSAT,CN-0000281 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000282,CSAT,CN-0000282 - Installation - Phone,16,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000283,CSAT,CN-0000283 - Installation - Phone,19,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000284,CSAT,CN-0000284 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000285,CSAT,CN-0000285 - Installation - Chat,33,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000286,CSAT,CN-0000286 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000287,CSAT,CN-0000287 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000288,CSAT,CN-0000288 - Installation - Phone,42,Phone,TRUE,Installation,Working,FALSE,Medium,600
+CN-0000289,CSAT,CN-0000289 - Installation - Email,22,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000290,CSAT,CN-0000290 - Installation - Phone,26,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0000291,CSAT,CN-0000291 - Equipment Complexity - Chat,19,Chat,FALSE,Equipment Complexity,Working,FALSE,High,9000
+CN-0000292,CSAT,CN-0000292 - Installation - Chat,36,Chat,TRUE,Installation,Working,TRUE,Medium,-1800
+CN-0000293,CSAT,CN-0000293 - Installation - Phone,24,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000294,CSAT,CN-0000294 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000295,CSAT,CN-0000295 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000296,CSAT,CN-0000296 - Installation - Chat,24,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000297,CSAT,CN-0000297 - Equipment Complexity - Phone,2,Phone,FALSE,Equipment Complexity,Closed,TRUE,High,-10800
+CN-0000298,CSAT,CN-0000298 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000299,CSAT,CN-0000299 - Installation - Chat,50,Chat,FALSE,Installation,New,FALSE,High,5400
+CN-0000300,CSAT,CN-0000300 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000301,CSAT,CN-0000301 - Equipment Design - Email,30,Email,TRUE,Equipment Design,Working,FALSE,Low,1800
+CN-0000302,CSAT,CN-0000302 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000303,CSAT,CN-0000303 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Medium,1600
+CN-0000304,CSAT,CN-0000304 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000305,CSAT,CN-0000305 - Equipment Complexity - Phone,1,Phone,TRUE,Equipment Complexity,Closed,FALSE,High,8100
+CN-0000306,CSAT,CN-0000306 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000307,CSAT,CN-0000307 - Equipment Complexity - Chat,17,Chat,FALSE,Equipment Complexity,Working,FALSE,High,9000
+CN-0000308,CSAT,CN-0000308 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,Working,TRUE,Medium,-3600
+CN-0000309,CSAT,CN-0000309 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000310,CSAT,CN-0000310 - Installation - Chat,24,Chat,FALSE,Installation,Working,FALSE,High,4500
+CN-0000311,CSAT,CN-0000311 - Equipment Design - Chat,18,Chat,FALSE,Equipment Design,Closed,FALSE,High,40500
+CN-0000312,CSAT,CN-0000312 - Equipment Complexity - Phone,26,Phone,FALSE,Equipment Complexity,New,TRUE,Medium,-4000
+CN-0000313,CSAT,CN-0000313 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000314,CSAT,CN-0000314 - Equipment Complexity - Phone,43,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-2400
+CN-0000315,CSAT,CN-0000315 - Installation - Phone,26,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000316,CSAT,CN-0000316 - Equipment Complexity - Phone,24,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0000317,CSAT,CN-0000317 - Installation - Phone,54,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000318,CSAT,CN-0000318 - Installation - Phone,31,Phone,FALSE,Installation,Closed,FALSE,High,3600
+CN-0000319,CSAT,CN-0000319 - Equipment Complexity - Chat,40,Chat,FALSE,Equipment Complexity,New,FALSE,High,14400
+CN-0000320,CSAT,CN-0000320 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000321,CSAT,CN-0000321 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000322,CSAT,CN-0000322 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Medium,1600
+CN-0000323,CSAT,CN-0000323 - Equipment Complexity - Phone,22,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,4000
+CN-0000324,CSAT,CN-0000324 - Other - Phone,30,Phone,TRUE,Other,Closed,TRUE,Low,-8100
+CN-0000325,CSAT,CN-0000325 - Installation - Chat,36,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000326,CSAT,CN-0000326 - Installation - Phone,61,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000327,CSAT,CN-0000327 - Installation - Phone,36,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000328,CSAT,CN-0000328 - Equipment Complexity - Phone,31,Phone,FALSE,Equipment Complexity,New,FALSE,Low,1600
+CN-0000329,CSAT,CN-0000329 - Installation - Chat,16,Chat,FALSE,Installation,New,FALSE,High,9000
+CN-0000330,CSAT,CN-0000330 - Equipment Design - Email,30,Email,FALSE,Equipment Design,Working,FALSE,Low,2400
+CN-0000331,CSAT,CN-0000331 - Installation - Phone,46,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000332,CSAT,CN-0000332 - Installation - Phone,38,Phone,TRUE,Installation,New,TRUE,High,-1800
+CN-0000333,CSAT,CN-0000333 - Equipment Design - Phone,16,Phone,TRUE,Equipment Design,Working,TRUE,Low,-1125
+CN-0000334,CSAT,CN-0000334 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000335,CSAT,CN-0000335 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000336,CSAT,CN-0000336 - Equipment Complexity - Phone,29,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-2250
+CN-0000337,CSAT,CN-0000337 - Installation - Chat,41,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000338,CSAT,CN-0000338 - Installation - Phone,45,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000339,CSAT,CN-0000339 - Installation - Phone,45,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000340,CSAT,CN-0000340 - Equipment Complexity - Phone,2,Phone,TRUE,Equipment Complexity,New,FALSE,Medium,3600
+CN-0000341,CSAT,CN-0000341 - Performance - Phone,24,Phone,FALSE,Performance,Closed,FALSE,High,18000
+CN-0000342,CSAT,CN-0000342 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000343,CSAT,CN-0000343 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000344,CSAT,CN-0000344 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000345,CSAT,CN-0000345 - Installation - Phone,24,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000346,CSAT,CN-0000346 - Installation - Phone,40,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000347,CSAT,CN-0000347 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,800
+CN-0000348,CSAT,CN-0000348 - Equipment Complexity - Phone,3,Phone,TRUE,Equipment Complexity,New,FALSE,Low,1800
+CN-0000349,CSAT,CN-0000349 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000350,CSAT,CN-0000350 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000351,CSAT,CN-0000351 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000352,CSAT,CN-0000352 - Equipment Complexity - Chat,15,Chat,TRUE,Equipment Complexity,New,TRUE,Low,-4500
+CN-0000353,CSAT,CN-0000353 - Equipment Complexity - Phone,25,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000354,CSAT,CN-0000354 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000355,CSAT,CN-0000355 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000356,CSAT,CN-0000356 - Installation - Phone,22,Phone,FALSE,Installation,New,FALSE,High,3000
+CN-0000357,CSAT,CN-0000357 - Installation - Phone,38,Phone,FALSE,Installation,Working,TRUE,Medium,-800
+CN-0000358,CSAT,CN-0000358 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000359,CSAT,CN-0000359 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000360,CSAT,CN-0000360 - Equipment Complexity - Phone,40,Phone,TRUE,Equipment Complexity,Escalated,TRUE,Low,-3000
+CN-0000361,CSAT,CN-0000361 - Equipment Complexity - Chat,29,Chat,TRUE,Equipment Complexity,Working,TRUE,Medium,-4500
+CN-0000362,CSAT,CN-0000362 - Installation - Chat,45,Chat,FALSE,Installation,New,TRUE,Low,-2400
+CN-0000363,CSAT,CN-0000363 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000364,CSAT,CN-0000364 - Equipment Complexity - Email,30,Email,TRUE,Equipment Complexity,Working,TRUE,Low,-1200
+CN-0000365,CSAT,CN-0000365 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000366,CSAT,CN-0000366 - Equipment Complexity - Chat,60,Chat,FALSE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000367,CSAT,CN-0000367 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,Low,1200
+CN-0000368,CSAT,CN-0000368 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000369,CSAT,CN-0000369 - Installation - Chat,24,Chat,FALSE,Installation,Working,FALSE,High,4500
+CN-0000370,CSAT,CN-0000370 - Equipment Complexity - Chat,25,Chat,TRUE,Equipment Complexity,Working,FALSE,High,6750
+CN-0000371,CSAT,CN-0000371 - Equipment Complexity - Phone,18,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000372,CSAT,CN-0000372 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000373,CSAT,CN-0000373 - Installation - Chat,22,Chat,TRUE,Installation,Working,TRUE,High,-3375
+CN-0000374,CSAT,CN-0000374 - Performance - Phone,3,Phone,FALSE,Performance,New,TRUE,Low,-4800
+CN-0000375,CSAT,CN-0000375 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000376,CSAT,CN-0000376 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000377,CSAT,CN-0000377 - Installation - Chat,27,Chat,TRUE,Installation,Closed,TRUE,High,-10125
+CN-0000378,CSAT,CN-0000378 - Installation - Chat,20,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000379,CSAT,CN-0000379 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000380,CSAT,CN-0000380 - Installation - Chat,42,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000381,CSAT,CN-0000381 - Installation - Chat,1,Chat,FALSE,Installation,Closed,FALSE,Low,5400
+CN-0000382,CSAT,CN-0000382 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000383,CSAT,CN-0000383 - Equipment Complexity - Phone,35,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000384,CSAT,CN-0000384 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000385,CSAT,CN-0000385 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000386,CSAT,CN-0000386 - Feedback - Phone,1,Phone,TRUE,Feedback,Closed,TRUE,Low,-8100
+CN-0000387,CSAT,CN-0000387 - Installation - Phone,36,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000388,CSAT,CN-0000388 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000389,CSAT,CN-0000389 - Installation - Chat,17,Chat,FALSE,Installation,Working,FALSE,Medium,3000
+CN-0000390,CSAT,CN-0000390 - Equipment Complexity - Phone,36,Phone,TRUE,Equipment Complexity,Closed,FALSE,High,5400
+CN-0000391,CSAT,CN-0000391 - Installation - Phone,21,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000392,CSAT,CN-0000392 - Equipment Design - Phone,28,Phone,TRUE,Equipment Design,Working,TRUE,Low,-1125
+CN-0000393,CSAT,CN-0000393 - Equipment Complexity - Chat,23,Chat,FALSE,Equipment Complexity,Working,FALSE,High,9000
+CN-0000394,CSAT,CN-0000394 - Installation - Phone,24,Phone,FALSE,Installation,Closed,FALSE,Low,1500
+CN-0000395,CSAT,CN-0000395 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000396,CSAT,CN-0000396 - Installation - Phone,31,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000397,CSAT,CN-0000397 - Installation - Phone,46,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000398,CSAT,CN-0000398 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000399,CSAT,CN-0000399 - Installation - Phone,28,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000400,CSAT,CN-0000400 - Installation - Phone,39,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000401,CSAT,CN-0000401 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000402,CSAT,CN-0000402 - Equipment Complexity - Phone,21,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-1000
+CN-0000403,CSAT,CN-0000403 - Equipment Complexity - Phone,28,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000404,CSAT,CN-0000404 - Installation - Phone,20,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000405,CSAT,CN-0000405 - Equipment Complexity - Phone,34,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0000406,CSAT,CN-0000406 - Installation - Phone,51,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000407,CSAT,CN-0000407 - Equipment Complexity - Phone,3,Phone,TRUE,Equipment Complexity,New,FALSE,Medium,3600
+CN-0000408,CSAT,CN-0000408 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000409,CSAT,CN-0000409 - Performance - Phone,30,Phone,FALSE,Performance,New,TRUE,Low,-3200
+CN-0000410,CSAT,CN-0000410 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000411,CSAT,CN-0000411 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000412,CSAT,CN-0000412 - Equipment Complexity - Email,33,Email,FALSE,Equipment Complexity,Working,FALSE,High,4800
+CN-0000413,CSAT,CN-0000413 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000414,CSAT,CN-0000414 - Installation - Phone,44,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000415,CSAT,CN-0000415 - Installation - Phone,30,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000416,CSAT,CN-0000416 - Equipment Complexity - Phone,34,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,3200
+CN-0000417,CSAT,CN-0000417 - Installation - Phone,18,Phone,FALSE,Installation,Closed,FALSE,Medium,3000
+CN-0000418,CSAT,CN-0000418 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000419,CSAT,CN-0000419 - Installation - Phone,10,Phone,FALSE,Installation,Closed,TRUE,Low,-1500
+CN-0000420,CSAT,CN-0000420 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000421,CSAT,CN-0000421 - Installation - Email,21,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0000422,CSAT,CN-0000422 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000423,CSAT,CN-0000423 - Equipment Complexity - Phone,28,Phone,FALSE,Equipment Complexity,New,TRUE,Low,-2000
+CN-0000424,CSAT,CN-0000424 - Equipment Complexity - Phone,18,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1500
+CN-0000425,CSAT,CN-0000425 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000426,CSAT,CN-0000426 - Equipment Complexity - Phone,28,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0000427,CSAT,CN-0000427 - Installation - Phone,19,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000428,CSAT,CN-0000428 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000429,CSAT,CN-0000429 - Installation - Phone,32,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000430,CSAT,CN-0000430 - Installation - Phone,28,Phone,TRUE,Installation,Working,FALSE,High,1125
+CN-0000431,CSAT,CN-0000431 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,800
+CN-0000432,CSAT,CN-0000432 - Equipment Complexity - Phone,42,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,1600
+CN-0000433,CSAT,CN-0000433 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000434,CSAT,CN-0000434 - Equipment Complexity - Phone,50,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1350
+CN-0000435,CSAT,CN-0000435 - Equipment Complexity - Phone,14,Phone,FALSE,Equipment Complexity,Closed,FALSE,High,9000
+CN-0000436,CSAT,CN-0000436 - Equipment Design - Phone,21,Phone,FALSE,Equipment Design,Closed,TRUE,Low,-4500
+CN-0000437,CSAT,CN-0000437 - Equipment Design - Phone,24,Phone,FALSE,Equipment Design,Waiting on Customer,FALSE,Medium,12000
+CN-0000438,CSAT,CN-0000438 - Equipment Complexity - Phone,64,Phone,TRUE,Equipment Complexity,Escalated,TRUE,High,-6750
+CN-0000439,CSAT,CN-0000439 - Installation - Phone,31,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000440,CSAT,CN-0000440 - Equipment Complexity - Phone,45,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,3200
+CN-0000441,CSAT,CN-0000441 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000442,CSAT,CN-0000442 - Equipment Complexity - Phone,25,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000443,CSAT,CN-0000443 - Installation - Phone,28,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000444,CSAT,CN-0000444 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000445,CSAT,CN-0000445 - Installation - Phone,4,Phone,TRUE,Installation,Closed,FALSE,High,4050
+CN-0000446,CSAT,CN-0000446 - Installation - Phone,13,Phone,FALSE,Installation,New,FALSE,Medium,2000
+CN-0000447,CSAT,CN-0000447 - Installation - Phone,34,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000448,CSAT,CN-0000448 - Equipment Design - Chat,5,Chat,FALSE,Equipment Design,New,FALSE,Low,10800
+CN-0000449,CSAT,CN-0000449 - Installation - Phone,52,Phone,TRUE,Installation,Working,FALSE,High,675
+CN-0000450,CSAT,CN-0000450 - Equipment Complexity - Phone,36,Phone,TRUE,Equipment Complexity,Closed,TRUE,Medium,-3600
+CN-0000451,CSAT,CN-0000451 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000452,CSAT,CN-0000452 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000453,CSAT,CN-0000453 - Equipment Complexity - Chat,49,Chat,TRUE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000454,CSAT,CN-0000454 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000455,CSAT,CN-0000455 - Installation - Chat,29,Chat,TRUE,Installation,Working,FALSE,Low,1125
+CN-0000456,CSAT,CN-0000456 - Installation - Phone,65,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000457,CSAT,CN-0000457 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000458,CSAT,CN-0000458 - Installation - Phone,50,Phone,FALSE,Installation,Working,FALSE,Medium,600
+CN-0000459,CSAT,CN-0000459 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000460,CSAT,CN-0000460 - Installation - Phone,48,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000461,CSAT,CN-0000461 - Installation - Phone,34,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000462,CSAT,CN-0000462 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000463,CSAT,CN-0000463 - Installation - Phone,48,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000464,CSAT,CN-0000464 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000465,CSAT,CN-0000465 - Installation - Phone,38,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000466,CSAT,CN-0000466 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000467,CSAT,CN-0000467 - Installation - Phone,56,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000468,CSAT,CN-0000468 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000469,CSAT,CN-0000469 - Equipment Design - Chat,1,Chat,FALSE,Equipment Design,New,FALSE,Low,10800
+CN-0000470,CSAT,CN-0000470 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000471,CSAT,CN-0000471 - Installation - Phone,38,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000472,CSAT,CN-0000472 - Equipment Complexity - Phone,33,Phone,FALSE,Equipment Complexity,Closed,FALSE,Medium,4800
+CN-0000473,CSAT,CN-0000473 - Installation - Chat,23,Chat,FALSE,Installation,Working,FALSE,Medium,3000
+CN-0000474,CSAT,CN-0000474 - Installation - Phone,22,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000475,CSAT,CN-0000475 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000476,CSAT,CN-0000476 - Equipment Complexity - Phone,34,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0000477,CSAT,CN-0000477 - Equipment Complexity - Phone,29,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000478,CSAT,CN-0000478 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000479,CSAT,CN-0000479 - Installation - Phone,2,Phone,FALSE,Installation,New,FALSE,Low,1200
+CN-0000480,CSAT,CN-0000480 - Feedback - Phone,9,Phone,TRUE,Feedback,Closed,TRUE,Low,-8100
+CN-0000481,CSAT,CN-0000481 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000482,CSAT,CN-0000482 - Installation - Phone,50,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000483,CSAT,CN-0000483 - Installation - Phone,63,Phone,FALSE,Installation,Working,FALSE,Low,300
+CN-0000484,CSAT,CN-0000484 - Equipment Complexity - Chat,25,Chat,TRUE,Equipment Complexity,Working,FALSE,High,6750
+CN-0000485,CSAT,CN-0000485 - Performance - Phone,30,Phone,FALSE,Performance,New,TRUE,Low,-3200
+CN-0000486,CSAT,CN-0000486 - Equipment Complexity - Phone,35,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000487,CSAT,CN-0000487 - Installation - Chat,58,Chat,TRUE,Installation,Working,TRUE,High,-2025
+CN-0000488,CSAT,CN-0000488 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000489,CSAT,CN-0000489 - Equipment Complexity - Phone,9,Phone,TRUE,Equipment Complexity,New,FALSE,Low,1800
+CN-0000490,CSAT,CN-0000490 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000491,CSAT,CN-0000491 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000492,CSAT,CN-0000492 - Installation - Phone,55,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000493,CSAT,CN-0000493 - Installation - Chat,71,Chat,TRUE,Installation,Working,TRUE,High,-1350
+CN-0000494,CSAT,CN-0000494 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000495,CSAT,CN-0000495 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000496,CSAT,CN-0000496 - Equipment Complexity - Chat,54,Chat,FALSE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000497,CSAT,CN-0000497 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000498,CSAT,CN-0000498 - Equipment Complexity - Phone,25,Phone,FALSE,Equipment Complexity,Closed,TRUE,High,-9000
+CN-0000499,CSAT,CN-0000499 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000500,CSAT,CN-0000500 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000501,CSAT,CN-0000501 - Installation - Email,21,Email,FALSE,Installation,Working,TRUE,Low,-1000
+CN-0000502,CSAT,CN-0000502 - Installation - Email,30,Email,FALSE,Installation,Working,TRUE,Low,-800
+CN-0000503,CSAT,CN-0000503 - Installation - Phone,37,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000504,CSAT,CN-0000504 - Installation - Phone,16,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0000505,CSAT,CN-0000505 - Equipment Complexity - Chat,18,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-6750
+CN-0000506,CSAT,CN-0000506 - Installation - Phone,33,Phone,FALSE,Installation,Closed,FALSE,Medium,2400
+CN-0000507,CSAT,CN-0000507 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000508,CSAT,CN-0000508 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000509,CSAT,CN-0000509 - Installation - Phone,26,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000510,CSAT,CN-0000510 - Installation - Email,29,Email,TRUE,Installation,Working,FALSE,Low,750
+CN-0000511,CSAT,CN-0000511 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000512,CSAT,CN-0000512 - Installation - Phone,36,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000513,CSAT,CN-0000513 - Equipment Complexity - Chat,54,Chat,FALSE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000514,CSAT,CN-0000514 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000515,CSAT,CN-0000515 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000516,CSAT,CN-0000516 - Installation - Phone,34,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000517,CSAT,CN-0000517 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000518,CSAT,CN-0000518 - Equipment Complexity - Phone,36,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,1600
+CN-0000519,CSAT,CN-0000519 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000520,CSAT,CN-0000520 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000521,CSAT,CN-0000521 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000522,CSAT,CN-0000522 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000523,CSAT,CN-0000523 - Installation - Chat,44,Chat,FALSE,Installation,New,FALSE,High,7200
+CN-0000524,CSAT,CN-0000524 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000525,CSAT,CN-0000525 - Installation - Email,41,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000526,CSAT,CN-0000526 - Installation - Phone,50,Phone,FALSE,Installation,Working,FALSE,Medium,600
+CN-0000527,CSAT,CN-0000527 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000528,CSAT,CN-0000528 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000529,CSAT,CN-0000529 - Equipment Design - Phone,23,Phone,TRUE,Equipment Design,New,TRUE,Medium,-4500
+CN-0000530,CSAT,CN-0000530 - Equipment Complexity - Phone,2,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,4800
+CN-0000531,CSAT,CN-0000531 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000532,CSAT,CN-0000532 - Equipment Complexity - Chat,17,Chat,TRUE,Equipment Complexity,New,TRUE,Low,-4500
+CN-0000533,CSAT,CN-0000533 - Installation - Chat,30,Chat,FALSE,Installation,Closed,FALSE,Low,3600
+CN-0000534,CSAT,CN-0000534 - Installation - Phone,30,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000535,CSAT,CN-0000535 - Installation - Phone,7,Phone,FALSE,Installation,Closed,FALSE,Medium,3600
+CN-0000536,CSAT,CN-0000536 - Installation - Phone,45,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000537,CSAT,CN-0000537 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000538,CSAT,CN-0000538 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000539,CSAT,CN-0000539 - Installation - Chat,22,Chat,FALSE,Installation,Closed,FALSE,High,13500
+CN-0000540,CSAT,CN-0000540 - Installation - Phone,36,Phone,FALSE,Installation,Closed,FALSE,High,3600
+CN-0000541,CSAT,CN-0000541 - Breakdown - Phone,9,Phone,FALSE,Breakdown,Closed,TRUE,Low,-9000
+CN-0000542,CSAT,CN-0000542 - Breakdown - Phone,11,Phone,FALSE,Breakdown,Closed,TRUE,Low,-7500
+CN-0000543,CSAT,CN-0000543 - Equipment Complexity - Phone,32,Phone,TRUE,Equipment Complexity,Working,FALSE,Medium,1200
+CN-0000544,CSAT,CN-0000544 - Equipment Complexity - Chat,50,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-4050
+CN-0000545,CSAT,CN-0000545 - Installation - Phone,64,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000546,CSAT,CN-0000546 - Equipment Complexity - Phone,19,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0000547,CSAT,CN-0000547 - Installation - Chat,30,Chat,TRUE,Installation,Working,FALSE,Medium,1800
+CN-0000548,CSAT,CN-0000548 - Equipment Complexity - Phone,33,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1200
+CN-0000549,CSAT,CN-0000549 - Equipment Complexity - Phone,8,Phone,TRUE,Equipment Complexity,New,FALSE,Medium,3600
+CN-0000550,CSAT,CN-0000550 - Installation - Chat,17,Chat,TRUE,Installation,Closed,FALSE,High,10125
+CN-0000551,CSAT,CN-0000551 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000552,CSAT,CN-0000552 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000553,CSAT,CN-0000553 - Installation - Chat,22,Chat,TRUE,Installation,Working,FALSE,Low,1125
+CN-0000554,CSAT,CN-0000554 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000555,CSAT,CN-0000555 - Installation - Phone,62,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000556,CSAT,CN-0000556 - Equipment Complexity - Chat,48,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000557,CSAT,CN-0000557 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000558,CSAT,CN-0000558 - Equipment Complexity - Phone,39,Phone,FALSE,Equipment Complexity,New,FALSE,High,4800
+CN-0000559,CSAT,CN-0000559 - Equipment Complexity - Phone,36,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,800
+CN-0000560,CSAT,CN-0000560 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000561,CSAT,CN-0000561 - Installation - Phone,40,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000562,CSAT,CN-0000562 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000563,CSAT,CN-0000563 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000564,CSAT,CN-0000564 - Installation - Phone,30,Phone,FALSE,Installation,Working,TRUE,Low,-400
+CN-0000565,CSAT,CN-0000565 - Equipment Design - Phone,24,Phone,TRUE,Equipment Design,Working,TRUE,Low,-1125
+CN-0000566,CSAT,CN-0000566 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000567,CSAT,CN-0000567 - Installation - Phone,29,Phone,FALSE,Installation,Escalated,TRUE,Low,-2500
+CN-0000568,CSAT,CN-0000568 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000569,CSAT,CN-0000569 - Installation - Phone,32,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000570,CSAT,CN-0000570 - Installation - Phone,62,Phone,TRUE,Installation,Working,FALSE,Medium,450
+CN-0000571,CSAT,CN-0000571 - Equipment Design - Phone,53,Phone,FALSE,Equipment Design,Working,FALSE,High,2700
+CN-0000572,CSAT,CN-0000572 - Installation - Phone,36,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000573,CSAT,CN-0000573 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000574,CSAT,CN-0000574 - Installation - Phone,16,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000575,CSAT,CN-0000575 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000576,CSAT,CN-0000576 - Installation - Phone,34,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000577,CSAT,CN-0000577 - Equipment Complexity - Phone,39,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000578,CSAT,CN-0000578 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,TRUE,Low,-2400
+CN-0000579,CSAT,CN-0000579 - Installation - Phone,32,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000580,CSAT,CN-0000580 - Equipment Complexity - Phone,25,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,4000
+CN-0000581,CSAT,CN-0000581 - Equipment Complexity - Chat,39,Chat,FALSE,Equipment Complexity,New,FALSE,High,14400
+CN-0000582,CSAT,CN-0000582 - Installation - Phone,54,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000583,CSAT,CN-0000583 - Installation - Chat,36,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000584,CSAT,CN-0000584 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000585,CSAT,CN-0000585 - Installation - Phone,18,Phone,FALSE,Installation,Closed,FALSE,High,4500
+CN-0000586,CSAT,CN-0000586 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000587,CSAT,CN-0000587 - Equipment Complexity - Chat,60,Chat,TRUE,Equipment Complexity,New,FALSE,High,8100
+CN-0000588,CSAT,CN-0000588 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000589,CSAT,CN-0000589 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000590,CSAT,CN-0000590 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000591,CSAT,CN-0000591 - Equipment Complexity - Chat,52,Chat,FALSE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000592,CSAT,CN-0000592 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000593,CSAT,CN-0000593 - Installation - Email,30,Email,FALSE,Installation,Closed,TRUE,Low,-2400
+CN-0000594,CSAT,CN-0000594 - Equipment Complexity - Phone,37,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0000595,CSAT,CN-0000595 - Equipment Complexity - Phone,36,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1200
+CN-0000596,CSAT,CN-0000596 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000597,CSAT,CN-0000597 - Installation - Phone,49,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000598,CSAT,CN-0000598 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000599,CSAT,CN-0000599 - Equipment Complexity - Chat,49,Chat,TRUE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000600,CSAT,CN-0000600 - Equipment Design - Phone,24,Phone,FALSE,Equipment Design,New,FALSE,Medium,6000
+CN-0000601,CSAT,CN-0000601 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000602,CSAT,CN-0000602 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000603,CSAT,CN-0000603 - Installation - Phone,44,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000604,CSAT,CN-0000604 - Installation - Chat,35,Chat,TRUE,Installation,Working,FALSE,High,2700
+CN-0000605,CSAT,CN-0000605 - Equipment Complexity - Phone,36,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000606,CSAT,CN-0000606 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000607,CSAT,CN-0000607 - Installation - Phone,27,Phone,TRUE,Installation,Working,FALSE,High,1125
+CN-0000608,CSAT,CN-0000608 - Equipment Complexity - Chat,22,Chat,FALSE,Equipment Complexity,Closed,FALSE,Medium,18000
+CN-0000609,CSAT,CN-0000609 - Installation - Phone,40,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000610,CSAT,CN-0000610 - Equipment Complexity - Phone,39,Phone,FALSE,Equipment Complexity,Attention,TRUE,Low,-4800
+CN-0000611,CSAT,CN-0000611 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000612,CSAT,CN-0000612 - Equipment Complexity - Email,30,Email,FALSE,Equipment Complexity,Working,FALSE,Low,1600
+CN-0000613,CSAT,CN-0000613 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000614,CSAT,CN-0000614 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000615,CSAT,CN-0000615 - Equipment Complexity - Phone,24,Phone,FALSE,Equipment Complexity,Closed,FALSE,Medium,6000
+CN-0000616,CSAT,CN-0000616 - Equipment Complexity - Phone,34,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1200
+CN-0000617,CSAT,CN-0000617 - Equipment Complexity - Phone,26,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-1000
+CN-0000618,CSAT,CN-0000618 - Equipment Design - Phone,4,Phone,FALSE,Equipment Design,New,FALSE,Medium,7200
+CN-0000619,CSAT,CN-0000619 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000620,CSAT,CN-0000620 - Equipment Complexity - Chat,27,Chat,TRUE,Equipment Complexity,Working,TRUE,Low,-2250
+CN-0000621,CSAT,CN-0000621 - Equipment Complexity - Phone,42,Phone,TRUE,Equipment Complexity,Working,FALSE,High,1800
+CN-0000622,CSAT,CN-0000622 - Equipment Complexity - Chat,20,Chat,TRUE,Equipment Complexity,New,FALSE,Low,4500
+CN-0000623,CSAT,CN-0000623 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000624,CSAT,CN-0000624 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000625,CSAT,CN-0000625 - Installation - Phone,61,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000626,CSAT,CN-0000626 - Installation - Email,57,Email,TRUE,Installation,Working,TRUE,Medium,-900
+CN-0000627,CSAT,CN-0000627 - Installation - Phone,21,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0000628,CSAT,CN-0000628 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000629,CSAT,CN-0000629 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000630,CSAT,CN-0000630 - Installation - Phone,80,Phone,TRUE,Installation,Working,FALSE,High,450
+CN-0000631,CSAT,CN-0000631 - Installation - Phone,51,Phone,TRUE,Installation,Working,TRUE,Low,-225
+CN-0000632,CSAT,CN-0000632 - Installation - Chat,32,Chat,TRUE,Installation,Working,FALSE,High,2700
+CN-0000633,CSAT,CN-0000633 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000634,CSAT,CN-0000634 - Performance - Phone,9,Phone,FALSE,Performance,Closed,TRUE,Low,-7200
+CN-0000635,CSAT,CN-0000635 - Installation - Phone,28,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000636,CSAT,CN-0000636 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000637,CSAT,CN-0000637 - Equipment Complexity - Phone,31,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-2400
+CN-0000638,CSAT,CN-0000638 - Installation - Phone,41,Phone,FALSE,Installation,Attention,TRUE,Low,-2400
+CN-0000639,CSAT,CN-0000639 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000640,CSAT,CN-0000640 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000641,CSAT,CN-0000641 - Installation - Chat,24,Chat,FALSE,Installation,Working,FALSE,High,4500
+CN-0000642,CSAT,CN-0000642 - Performance - Phone,2,Phone,FALSE,Performance,Closed,TRUE,Low,-7200
+CN-0000643,CSAT,CN-0000643 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000644,CSAT,CN-0000644 - Equipment Design - Chat,1,Chat,FALSE,Equipment Design,New,FALSE,Low,10800
+CN-0000645,CSAT,CN-0000645 - Equipment Complexity - Chat,48,Chat,TRUE,Equipment Complexity,Working,FALSE,High,5400
+CN-0000646,CSAT,CN-0000646 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000647,CSAT,CN-0000647 - Installation - Chat,56,Chat,TRUE,Installation,Working,FALSE,High,2025
+CN-0000648,CSAT,CN-0000648 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000649,CSAT,CN-0000649 - Installation - Phone,23,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000650,CSAT,CN-0000650 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000651,CSAT,CN-0000651 - Installation - Phone,18,Phone,FALSE,Installation,New,FALSE,Medium,2000
+CN-0000652,CSAT,CN-0000652 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000653,CSAT,CN-0000653 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000654,CSAT,CN-0000654 - Installation - Email,18,Email,FALSE,Installation,Working,TRUE,Low,-1000
+CN-0000655,CSAT,CN-0000655 - Equipment Design - Phone,24,Phone,TRUE,Equipment Design,Working,TRUE,Medium,-2250
+CN-0000656,CSAT,CN-0000656 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000657,CSAT,CN-0000657 - Equipment Complexity - Email,32,Email,FALSE,Equipment Complexity,New,TRUE,Low,-3200
+CN-0000658,CSAT,CN-0000658 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000659,CSAT,CN-0000659 - Installation - Chat,58,Chat,TRUE,Installation,Closed,TRUE,High,-6075
+CN-0000660,CSAT,CN-0000660 - Equipment Design - Phone,50,Phone,TRUE,Equipment Design,Working,FALSE,High,2025
+CN-0000661,CSAT,CN-0000661 - Installation - Chat,40,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000662,CSAT,CN-0000662 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000663,CSAT,CN-0000663 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000664,CSAT,CN-0000664 - Equipment Complexity - Phone,20,Phone,TRUE,Equipment Complexity,Working,FALSE,Low,750
+CN-0000665,CSAT,CN-0000665 - Equipment Design - Phone,32,Phone,TRUE,Equipment Design,Working,TRUE,Medium,-1800
+CN-0000666,CSAT,CN-0000666 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000667,CSAT,CN-0000667 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000668,CSAT,CN-0000668 - Installation - Phone,43,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000669,CSAT,CN-0000669 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000670,CSAT,CN-0000670 - Equipment Complexity - Phone,40,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,3200
+CN-0000671,CSAT,CN-0000671 - Equipment Complexity - Phone,31,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0000672,CSAT,CN-0000672 - Installation - Phone,70,Phone,TRUE,Installation,Working,TRUE,Medium,-300
+CN-0000673,CSAT,CN-0000673 - Installation - Phone,31,Phone,TRUE,Installation,Working,FALSE,Medium,600
+CN-0000674,CSAT,CN-0000674 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000675,CSAT,CN-0000675 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000676,CSAT,CN-0000676 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000677,CSAT,CN-0000677 - Installation - Phone,18,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000678,CSAT,CN-0000678 - Equipment Complexity - Phone,43,Phone,FALSE,Equipment Complexity,Warning,TRUE,Low,-5600
+CN-0000679,CSAT,CN-0000679 - Installation - Chat,36,Chat,TRUE,Installation,New,FALSE,High,5400
+CN-0000680,CSAT,CN-0000680 - Installation - Email,30,Email,FALSE,Installation,Working,TRUE,Low,-800
+CN-0000681,CSAT,CN-0000681 - Installation - Chat,27,Chat,TRUE,Installation,Working,FALSE,High,3375
+CN-0000682,CSAT,CN-0000682 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000683,CSAT,CN-0000683 - Feedback - Phone,14,Phone,TRUE,Feedback,Closed,TRUE,Low,-6750
+CN-0000684,CSAT,CN-0000684 - Equipment Complexity - Phone,60,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-1800
+CN-0000685,CSAT,CN-0000685 - Equipment Complexity - Chat,25,Chat,TRUE,Equipment Complexity,Closed,TRUE,Medium,-13500
+CN-0000686,CSAT,CN-0000686 - Breakdown - Phone,14,Phone,TRUE,Breakdown,New,TRUE,Low,-3750
+CN-0000687,CSAT,CN-0000687 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000688,CSAT,CN-0000688 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000689,CSAT,CN-0000689 - Installation - Phone,15,Phone,FALSE,Installation,New,FALSE,High,3000
+CN-0000690,CSAT,CN-0000690 - Equipment Complexity - Phone,31,Phone,TRUE,Equipment Complexity,Working,FALSE,High,1800
+CN-0000691,CSAT,CN-0000691 - Installation - Chat,4,Chat,FALSE,Installation,New,FALSE,Low,3600
+CN-0000692,CSAT,CN-0000692 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000693,CSAT,CN-0000693 - Installation - Chat,25,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000694,CSAT,CN-0000694 - Installation - Phone,60,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0000695,CSAT,CN-0000695 - Installation - Phone,52,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000696,CSAT,CN-0000696 - Installation - Phone,44,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000697,CSAT,CN-0000697 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000698,CSAT,CN-0000698 - Equipment Complexity - Chat,49,Chat,TRUE,Equipment Complexity,New,TRUE,High,-10800
+CN-0000699,CSAT,CN-0000699 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000700,CSAT,CN-0000700 - Equipment Complexity - Chat,18,Chat,FALSE,Equipment Complexity,Working,FALSE,High,9000
+CN-0000701,CSAT,CN-0000701 - Installation - Phone,35,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000702,CSAT,CN-0000702 - Installation - Chat,18,Chat,FALSE,Installation,New,TRUE,Low,-3000
+CN-0000703,CSAT,CN-0000703 - Installation - Email,25,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0000704,CSAT,CN-0000704 - Equipment Complexity - Phone,26,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000705,CSAT,CN-0000705 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000706,CSAT,CN-0000706 - Installation - Phone,45,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000707,CSAT,CN-0000707 - Installation - Phone,42,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000708,CSAT,CN-0000708 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0000709,CSAT,CN-0000709 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,New,FALSE,Low,3600
+CN-0000710,CSAT,CN-0000710 - Installation - Chat,24,Chat,FALSE,Installation,Working,FALSE,High,4500
+CN-0000711,CSAT,CN-0000711 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000712,CSAT,CN-0000712 - Equipment Complexity - Phone,48,Phone,TRUE,Equipment Complexity,Working,FALSE,High,1800
+CN-0000713,CSAT,CN-0000713 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000714,CSAT,CN-0000714 - Installation - Phone,52,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000715,CSAT,CN-0000715 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000716,CSAT,CN-0000716 - Installation - Chat,38,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000717,CSAT,CN-0000717 - Installation - Phone,27,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0000718,CSAT,CN-0000718 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000719,CSAT,CN-0000719 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000720,CSAT,CN-0000720 - Installation - Phone,6,Phone,FALSE,Installation,New,FALSE,Medium,2400
+CN-0000721,CSAT,CN-0000721 - Equipment Complexity - Phone,17,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000722,CSAT,CN-0000722 - Installation - Phone,34,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000723,CSAT,CN-0000723 - Installation - Phone,50,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0000724,CSAT,CN-0000724 - Equipment Complexity - Phone,27,Phone,TRUE,Equipment Complexity,Working,FALSE,High,2250
+CN-0000725,CSAT,CN-0000725 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000726,CSAT,CN-0000726 - Performance - Phone,30,Phone,FALSE,Performance,Working,FALSE,Medium,3200
+CN-0000727,CSAT,CN-0000727 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000728,CSAT,CN-0000728 - Equipment Complexity - Phone,25,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0000729,CSAT,CN-0000729 - Equipment Complexity - Phone,25,Phone,FALSE,Equipment Complexity,Working,TRUE,Low,-1000
+CN-0000730,CSAT,CN-0000730 - Installation - Phone,29,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0000731,CSAT,CN-0000731 - Installation - Chat,11,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000732,CSAT,CN-0000732 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000733,CSAT,CN-0000733 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000734,CSAT,CN-0000734 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000735,CSAT,CN-0000735 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000736,CSAT,CN-0000736 - Equipment Complexity - Phone,48,Phone,FALSE,Equipment Complexity,Waiting on Customer,TRUE,Low,-3200
+CN-0000737,CSAT,CN-0000737 - Installation - Chat,35,Chat,TRUE,Installation,Working,FALSE,High,2700
+CN-0000738,CSAT,CN-0000738 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000739,CSAT,CN-0000739 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000740,CSAT,CN-0000740 - Installation - Phone,30,Phone,TRUE,Installation,Working,FALSE,High,900
+CN-0000741,CSAT,CN-0000741 - Equipment Complexity - Phone,36,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0000742,CSAT,CN-0000742 - Equipment Design - Chat,21,Chat,FALSE,Equipment Design,Closed,FALSE,High,40500
+CN-0000743,CSAT,CN-0000743 - Equipment Complexity - Phone,24,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0000744,CSAT,CN-0000744 - Installation - Phone,31,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000745,CSAT,CN-0000745 - Equipment Complexity - Phone,70,Phone,TRUE,Equipment Complexity,New,TRUE,High,-1800
+CN-0000746,CSAT,CN-0000746 - Equipment Complexity - Phone,16,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1500
+CN-0000747,CSAT,CN-0000747 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000748,CSAT,CN-0000748 - Equipment Complexity - Phone,19,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-2250
+CN-0000749,CSAT,CN-0000749 - Installation - Email,31,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000750,CSAT,CN-0000750 - Equipment Complexity - Phone,4,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,4800
+CN-0000751,CSAT,CN-0000751 - Installation - Phone,6,Phone,TRUE,Installation,New,FALSE,Low,900
+CN-0000752,CSAT,CN-0000752 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000753,CSAT,CN-0000753 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000754,CSAT,CN-0000754 - Equipment Complexity - Phone,48,Phone,FALSE,Equipment Complexity,Closed,FALSE,Medium,4800
+CN-0000755,CSAT,CN-0000755 - Equipment Complexity - Phone,1,Phone,TRUE,Equipment Complexity,New,FALSE,Medium,3600
+CN-0000756,CSAT,CN-0000756 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000757,CSAT,CN-0000757 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000758,CSAT,CN-0000758 - Installation - Phone,34,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000759,CSAT,CN-0000759 - Installation - Phone,33,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000760,CSAT,CN-0000760 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000761,CSAT,CN-0000761 - Installation - Phone,41,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000762,CSAT,CN-0000762 - Installation - Chat,20,Chat,TRUE,Installation,Working,FALSE,Low,1125
+CN-0000763,CSAT,CN-0000763 - Equipment Complexity - Phone,36,Phone,FALSE,Equipment Complexity,Closed,FALSE,High,7200
+CN-0000764,CSAT,CN-0000764 - Installation - Phone,16,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000765,CSAT,CN-0000765 - Equipment Complexity - Phone,51,Phone,FALSE,Equipment Complexity,Working,FALSE,High,1800
+CN-0000766,CSAT,CN-0000766 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000767,CSAT,CN-0000767 - Installation - Email,31,Email,FALSE,Installation,Working,TRUE,Low,-800
+CN-0000768,CSAT,CN-0000768 - Equipment Complexity - Email,30,Email,TRUE,Equipment Complexity,Working,TRUE,Low,-1200
+CN-0000769,CSAT,CN-0000769 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000770,CSAT,CN-0000770 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000771,CSAT,CN-0000771 - Installation - Phone,48,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000772,CSAT,CN-0000772 - Installation - Phone,57,Phone,FALSE,Installation,Working,TRUE,Medium,-600
+CN-0000773,CSAT,CN-0000773 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000774,CSAT,CN-0000774 - Equipment Complexity - Phone,54,Phone,FALSE,Equipment Complexity,Waiting on Customer,FALSE,Medium,4800
+CN-0000775,CSAT,CN-0000775 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000776,CSAT,CN-0000776 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000777,CSAT,CN-0000777 - Installation - Phone,5,Phone,FALSE,Installation,Working,FALSE,Low,600
+CN-0000778,CSAT,CN-0000778 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000779,CSAT,CN-0000779 - Installation - Phone,43,Phone,FALSE,Installation,New,FALSE,High,2400
+CN-0000780,CSAT,CN-0000780 - Installation - Chat,13,Chat,FALSE,Installation,Working,FALSE,Low,1500
+CN-0000781,CSAT,CN-0000781 - Equipment Complexity - Phone,17,Phone,FALSE,Equipment Complexity,Working,FALSE,High,3000
+CN-0000782,CSAT,CN-0000782 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,High,-1125
+CN-0000783,CSAT,CN-0000783 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Closed,TRUE,Low,-1800
+CN-0000784,CSAT,CN-0000784 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000785,CSAT,CN-0000785 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000786,CSAT,CN-0000786 - Installation - Phone,18,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000787,CSAT,CN-0000787 - Breakdown - Email,8,Email,TRUE,Breakdown,New,TRUE,Low,-9000
+CN-0000788,CSAT,CN-0000788 - Equipment Complexity - Phone,1,Phone,TRUE,Equipment Complexity,Closed,FALSE,Low,2700
+CN-0000789,CSAT,CN-0000789 - Installation - Chat,46,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000790,CSAT,CN-0000790 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000791,CSAT,CN-0000791 - Installation - Phone,16,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000792,CSAT,CN-0000792 - Other - Phone,30,Phone,FALSE,Other,Closed,TRUE,Low,-10800
+CN-0000793,CSAT,CN-0000793 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000794,CSAT,CN-0000794 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000795,CSAT,CN-0000795 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000796,CSAT,CN-0000796 - Installation - Phone,49,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000797,CSAT,CN-0000797 - Installation - Phone,31,Phone,FALSE,Installation,Working,FALSE,Low,400
+CN-0000798,CSAT,CN-0000798 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000799,CSAT,CN-0000799 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,New,TRUE,Low,-1600
+CN-0000800,CSAT,CN-0000800 - Installation - Phone,34,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000801,CSAT,CN-0000801 - Equipment Complexity - Phone,31,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,3200
+CN-0000802,CSAT,CN-0000802 - Equipment Complexity - Phone,11,Phone,TRUE,Equipment Complexity,Closed,FALSE,High,6750
+CN-0000803,CSAT,CN-0000803 - Installation - Chat,0,Chat,TRUE,Installation,New,FALSE,Low,450
+CN-0000804,CSAT,CN-0000804 - Installation - Phone,27,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000805,CSAT,CN-0000805 - Installation - Phone,31,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000806,CSAT,CN-0000806 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000807,CSAT,CN-0000807 - Installation - Phone,18,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000808,CSAT,CN-0000808 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000809,CSAT,CN-0000809 - Equipment Complexity - Phone,33,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000810,CSAT,CN-0000810 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000811,CSAT,CN-0000811 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000812,CSAT,CN-0000812 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000813,CSAT,CN-0000813 - Breakdown - Phone,6,Phone,FALSE,Breakdown,Closed,TRUE,Low,-9000
+CN-0000814,CSAT,CN-0000814 - Installation - Phone,31,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000815,CSAT,CN-0000815 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000816,CSAT,CN-0000816 - Installation - Phone,23,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000817,CSAT,CN-0000817 - Equipment Complexity - Chat,31,Chat,TRUE,Equipment Complexity,New,TRUE,Medium,-7200
+CN-0000818,CSAT,CN-0000818 - Installation - Phone,43,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000819,CSAT,CN-0000819 - Performance - Phone,10,Phone,TRUE,Performance,Closed,TRUE,Low,-4500
+CN-0000820,CSAT,CN-0000820 - Equipment Complexity - Phone,52,Phone,FALSE,Equipment Complexity,New,FALSE,High,3600
+CN-0000821,CSAT,CN-0000821 - Installation - Phone,27,Phone,TRUE,Installation,Working,FALSE,Low,375
+CN-0000822,CSAT,CN-0000822 - Installation - Phone,38,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000823,CSAT,CN-0000823 - Installation - Phone,27,Phone,FALSE,Installation,New,FALSE,Low,1000
+CN-0000824,CSAT,CN-0000824 - Breakdown - Phone,2,Phone,TRUE,Breakdown,New,TRUE,Low,-4500
+CN-0000825,CSAT,CN-0000825 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000826,CSAT,CN-0000826 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000827,CSAT,CN-0000827 - Installation - Chat,1,Chat,TRUE,Installation,Closed,FALSE,Medium,8100
+CN-0000828,CSAT,CN-0000828 - Installation - Email,30,Email,TRUE,Installation,Working,FALSE,Low,600
+CN-0000829,CSAT,CN-0000829 - Equipment Complexity - Chat,15,Chat,FALSE,Equipment Complexity,Working,FALSE,Low,3000
+CN-0000830,CSAT,CN-0000830 - Equipment Complexity - Phone,1,Phone,TRUE,Equipment Complexity,New,FALSE,Medium,3600
+CN-0000831,CSAT,CN-0000831 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000832,CSAT,CN-0000832 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000833,CSAT,CN-0000833 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000834,CSAT,CN-0000834 - Equipment Complexity - Chat,39,Chat,FALSE,Equipment Complexity,New,FALSE,High,14400
+CN-0000835,CSAT,CN-0000835 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000836,CSAT,CN-0000836 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000837,CSAT,CN-0000837 - Installation - Phone,32,Phone,TRUE,Installation,Working,FALSE,Low,300
+CN-0000838,CSAT,CN-0000838 - Installation - Chat,30,Chat,TRUE,Installation,Working,FALSE,High,2700
+CN-0000839,CSAT,CN-0000839 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000840,CSAT,CN-0000840 - Installation - Phone,16,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000841,CSAT,CN-0000841 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000842,CSAT,CN-0000842 - Installation - Chat,35,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000843,CSAT,CN-0000843 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000844,CSAT,CN-0000844 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000845,CSAT,CN-0000845 - Other - Phone,30,Phone,TRUE,Other,Closed,TRUE,Low,-8100
+CN-0000846,CSAT,CN-0000846 - Installation - Chat,35,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000847,CSAT,CN-0000847 - Installation - Phone,28,Phone,TRUE,Installation,New,TRUE,Medium,-1500
+CN-0000848,CSAT,CN-0000848 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000849,CSAT,CN-0000849 - Breakdown - Phone,4,Phone,TRUE,Breakdown,Closed,TRUE,Low,-6750
+CN-0000850,CSAT,CN-0000850 - Installation - Phone,74,Phone,TRUE,Installation,Working,TRUE,Low,-150
+CN-0000851,CSAT,CN-0000851 - Equipment Complexity - Chat,9,Chat,FALSE,Equipment Complexity,New,TRUE,Low,-7200
+CN-0000852,CSAT,CN-0000852 - Installation - Phone,16,Phone,FALSE,Installation,New,FALSE,High,3000
+CN-0000853,CSAT,CN-0000853 - Equipment Complexity - Phone,44,Phone,FALSE,Equipment Complexity,Working,TRUE,Medium,-1600
+CN-0000854,CSAT,CN-0000854 - Installation - Phone,18,Phone,FALSE,Installation,New,FALSE,Low,1000
+CN-0000855,CSAT,CN-0000855 - Equipment Complexity - Phone,45,Phone,FALSE,Equipment Complexity,New,FALSE,High,4800
+CN-0000856,CSAT,CN-0000856 - Installation - Phone,51,Phone,TRUE,Installation,Working,FALSE,High,675
+CN-0000857,CSAT,CN-0000857 - Installation - Chat,24,Chat,FALSE,Installation,Waiting on Customer,FALSE,Low,6000
+CN-0000858,CSAT,CN-0000858 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0000859,CSAT,CN-0000859 - Equipment Design - Phone,41,Phone,TRUE,Equipment Design,Working,TRUE,Low,-900
+CN-0000860,CSAT,CN-0000860 - Equipment Complexity - Phone,21,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0000861,CSAT,CN-0000861 - Installation - Phone,48,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000862,CSAT,CN-0000862 - Other - Phone,30,Phone,FALSE,Other,Closed,TRUE,Low,-10800
+CN-0000863,CSAT,CN-0000863 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000864,CSAT,CN-0000864 - Installation - Phone,42,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000865,CSAT,CN-0000865 - Equipment Complexity - Chat,27,Chat,FALSE,Equipment Complexity,Working,FALSE,Medium,6000
+CN-0000866,CSAT,CN-0000866 - Installation - Phone,31,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000867,CSAT,CN-0000867 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000868,CSAT,CN-0000868 - Equipment Complexity - Phone,4,Phone,TRUE,Equipment Complexity,New,FALSE,Low,1800
+CN-0000869,CSAT,CN-0000869 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000870,CSAT,CN-0000870 - Equipment Complexity - Phone,47,Phone,FALSE,Equipment Complexity,New,FALSE,High,4800
+CN-0000871,CSAT,CN-0000871 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000872,CSAT,CN-0000872 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000873,CSAT,CN-0000873 - Equipment Complexity - Chat,28,Chat,FALSE,Equipment Complexity,Working,FALSE,Medium,6000
+CN-0000874,CSAT,CN-0000874 - Installation - Chat,15,Chat,FALSE,Installation,Working,FALSE,Low,1500
+CN-0000875,CSAT,CN-0000875 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000876,CSAT,CN-0000876 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000877,CSAT,CN-0000877 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000878,CSAT,CN-0000878 - Installation - Chat,56,Chat,FALSE,Installation,New,FALSE,High,5400
+CN-0000879,CSAT,CN-0000879 - Installation - Phone,25,Phone,FALSE,Installation,New,FALSE,Medium,2000
+CN-0000880,CSAT,CN-0000880 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000881,CSAT,CN-0000881 - Installation - Phone,22,Phone,FALSE,Installation,Working,TRUE,Low,-500
+CN-0000882,CSAT,CN-0000882 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000883,CSAT,CN-0000883 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000884,CSAT,CN-0000884 - Installation - Email,39,Email,FALSE,Installation,Attention,TRUE,Low,-4800
+CN-0000885,CSAT,CN-0000885 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0000886,CSAT,CN-0000886 - Installation - Phone,19,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0000887,CSAT,CN-0000887 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Closed,TRUE,Low,-2400
+CN-0000888,CSAT,CN-0000888 - Installation - Chat,26,Chat,TRUE,Installation,Working,FALSE,High,3375
+CN-0000889,CSAT,CN-0000889 - Installation - Email,32,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000890,CSAT,CN-0000890 - Installation - Email,35,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000891,CSAT,CN-0000891 - Equipment Complexity - Phone,47,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,800
+CN-0000892,CSAT,CN-0000892 - Installation - Email,62,Email,TRUE,Installation,Working,TRUE,Medium,-900
+CN-0000893,CSAT,CN-0000893 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000894,CSAT,CN-0000894 - Equipment Complexity - Phone,22,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2000
+CN-0000895,CSAT,CN-0000895 - Installation - Phone,14,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000896,CSAT,CN-0000896 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000897,CSAT,CN-0000897 - Equipment Complexity - Phone,26,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-3000
+CN-0000898,CSAT,CN-0000898 - Installation - Chat,18,Chat,FALSE,Installation,Working,FALSE,Low,1500
+CN-0000899,CSAT,CN-0000899 - Equipment Design - Phone,21,Phone,TRUE,Equipment Design,Working,TRUE,Low,-1125
+CN-0000900,CSAT,CN-0000900 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000901,CSAT,CN-0000901 - Installation - Phone,46,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000902,CSAT,CN-0000902 - Equipment Complexity - Phone,23,Phone,FALSE,Equipment Complexity,Working,FALSE,High,3000
+CN-0000903,CSAT,CN-0000903 - Equipment Complexity - Phone,63,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-900
+CN-0000904,CSAT,CN-0000904 - Equipment Complexity - Phone,47,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000905,CSAT,CN-0000905 - Equipment Complexity - Chat,24,Chat,FALSE,Equipment Complexity,Working,FALSE,Medium,6000
+CN-0000906,CSAT,CN-0000906 - Installation - Email,35,Email,TRUE,Installation,Working,TRUE,Medium,-1200
+CN-0000907,CSAT,CN-0000907 - Installation - Chat,21,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000908,CSAT,CN-0000908 - Equipment Complexity - Phone,27,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,1000
+CN-0000909,CSAT,CN-0000909 - Installation - Chat,45,Chat,FALSE,Installation,Working,FALSE,Low,1200
+CN-0000910,CSAT,CN-0000910 - Equipment Complexity - Chat,55,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-4050
+CN-0000911,CSAT,CN-0000911 - Installation - Phone,9,Phone,TRUE,Installation,New,TRUE,Low,-900
+CN-0000912,CSAT,CN-0000912 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0000913,CSAT,CN-0000913 - Installation - Chat,21,Chat,TRUE,Installation,New,TRUE,High,-6750
+CN-0000914,CSAT,CN-0000914 - Equipment Complexity - Chat,48,Chat,FALSE,Equipment Complexity,Waiting on Customer,FALSE,High,28800
+CN-0000915,CSAT,CN-0000915 - Equipment Complexity - Phone,50,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-450
+CN-0000916,CSAT,CN-0000916 - Installation - Chat,22,Chat,FALSE,Installation,New,FALSE,High,9000
+CN-0000917,CSAT,CN-0000917 - Installation - Chat,23,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000918,CSAT,CN-0000918 - Installation - Phone,41,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000919,CSAT,CN-0000919 - Equipment Design - Chat,30,Chat,TRUE,Equipment Design,Working,TRUE,Low,-2700
+CN-0000920,CSAT,CN-0000920 - Equipment Complexity - Phone,50,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-900
+CN-0000921,CSAT,CN-0000921 - Equipment Design - Phone,24,Phone,TRUE,Equipment Design,Working,TRUE,Medium,-2250
+CN-0000922,CSAT,CN-0000922 - Equipment Complexity - Phone,33,Phone,FALSE,Equipment Complexity,Closed,FALSE,Low,2400
+CN-0000923,CSAT,CN-0000923 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Closed,FALSE,Low,2400
+CN-0000924,CSAT,CN-0000924 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-5400
+CN-0000925,CSAT,CN-0000925 - Installation - Chat,19,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0000926,CSAT,CN-0000926 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Low,400
+CN-0000927,CSAT,CN-0000927 - Installation - Phone,21,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000928,CSAT,CN-0000928 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000929,CSAT,CN-0000929 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000930,CSAT,CN-0000930 - Installation - Chat,39,Chat,TRUE,Installation,New,TRUE,Low,-1800
+CN-0000931,CSAT,CN-0000931 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000932,CSAT,CN-0000932 - Installation - Phone,41,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000933,CSAT,CN-0000933 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000934,CSAT,CN-0000934 - Equipment Complexity - Phone,45,Phone,FALSE,Equipment Complexity,Working,FALSE,High,2400
+CN-0000935,CSAT,CN-0000935 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000936,CSAT,CN-0000936 - Installation - Chat,45,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000937,CSAT,CN-0000937 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000938,CSAT,CN-0000938 - Installation - Chat,60,Chat,FALSE,Installation,Working,FALSE,High,2700
+CN-0000939,CSAT,CN-0000939 - Installation - Phone,36,Phone,FALSE,Installation,Closed,FALSE,Low,1200
+CN-0000940,CSAT,CN-0000940 - Equipment Complexity - Phone,24,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-2250
+CN-0000941,CSAT,CN-0000941 - Installation - Chat,27,Chat,TRUE,Installation,Working,TRUE,Medium,-2250
+CN-0000942,CSAT,CN-0000942 - Equipment Design - Phone,20,Phone,FALSE,Equipment Design,New,FALSE,Medium,6000
+CN-0000943,CSAT,CN-0000943 - Performance - Phone,28,Phone,FALSE,Performance,Closed,FALSE,High,18000
+CN-0000944,CSAT,CN-0000944 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Medium,-1800
+CN-0000945,CSAT,CN-0000945 - Breakdown - Email,10,Email,TRUE,Breakdown,New,TRUE,Low,-7500
+CN-0000946,CSAT,CN-0000946 - Installation - Phone,35,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000947,CSAT,CN-0000947 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000948,CSAT,CN-0000948 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0000949,CSAT,CN-0000949 - Installation - Chat,36,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000950,CSAT,CN-0000950 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000951,CSAT,CN-0000951 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000952,CSAT,CN-0000952 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000953,CSAT,CN-0000953 - Installation - Email,22,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000954,CSAT,CN-0000954 - Equipment Design - Chat,13,Chat,TRUE,Equipment Design,Closed,TRUE,High,-30375
+CN-0000955,CSAT,CN-0000955 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0000956,CSAT,CN-0000956 - Installation - Email,18,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000957,CSAT,CN-0000957 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000958,CSAT,CN-0000958 - Installation - Chat,31,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000959,CSAT,CN-0000959 - Equipment Complexity - Phone,60,Phone,FALSE,Equipment Complexity,Escalated,FALSE,High,9000
+CN-0000960,CSAT,CN-0000960 - Installation - Email,24,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000961,CSAT,CN-0000961 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000962,CSAT,CN-0000962 - Installation - Phone,29,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000963,CSAT,CN-0000963 - Installation - Chat,29,Chat,TRUE,Installation,Working,TRUE,High,-3375
+CN-0000964,CSAT,CN-0000964 - Installation - Chat,35,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0000965,CSAT,CN-0000965 - Installation - Chat,33,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0000966,CSAT,CN-0000966 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000967,CSAT,CN-0000967 - Equipment Design - Phone,55,Phone,FALSE,Equipment Design,Working,FALSE,High,2700
+CN-0000968,CSAT,CN-0000968 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0000969,CSAT,CN-0000969 - Installation - Email,24,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000970,CSAT,CN-0000970 - Equipment Complexity - Chat,6,Chat,TRUE,Equipment Complexity,New,TRUE,Low,-5400
+CN-0000971,CSAT,CN-0000971 - Equipment Complexity - Phone,67,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1350
+CN-0000972,CSAT,CN-0000972 - Installation - Phone,49,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0000973,CSAT,CN-0000973 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000974,CSAT,CN-0000974 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Medium,-1200
+CN-0000975,CSAT,CN-0000975 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,Working,TRUE,Low,-1800
+CN-0000976,CSAT,CN-0000976 - Installation - Email,27,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0000977,CSAT,CN-0000977 - Installation - Phone,18,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000978,CSAT,CN-0000978 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0000979,CSAT,CN-0000979 - Equipment Complexity - Phone,2,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-3600
+CN-0000980,CSAT,CN-0000980 - Equipment Complexity - Phone,22,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,1000
+CN-0000981,CSAT,CN-0000981 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000982,CSAT,CN-0000982 - Equipment Complexity - Phone,27,Phone,FALSE,Equipment Complexity,Closed,FALSE,High,9000
+CN-0000983,CSAT,CN-0000983 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000984,CSAT,CN-0000984 - Installation - Chat,25,Chat,TRUE,Installation,Working,TRUE,High,-3375
+CN-0000985,CSAT,CN-0000985 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000986,CSAT,CN-0000986 - Equipment Complexity - Phone,76,Phone,FALSE,Equipment Complexity,Working,FALSE,High,1200
+CN-0000987,CSAT,CN-0000987 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000988,CSAT,CN-0000988 - Installation - Phone,20,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0000989,CSAT,CN-0000989 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000990,CSAT,CN-0000990 - Equipment Complexity - Chat,43,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0000991,CSAT,CN-0000991 - Equipment Complexity - Phone,27,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0000992,CSAT,CN-0000992 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000993,CSAT,CN-0000993 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000994,CSAT,CN-0000994 - Equipment Complexity - Chat,16,Chat,FALSE,Equipment Complexity,New,FALSE,Low,6000
+CN-0000995,CSAT,CN-0000995 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0000996,CSAT,CN-0000996 - Installation - Email,21,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0000997,CSAT,CN-0000997 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0000998,CSAT,CN-0000998 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0000999,CSAT,CN-0000999 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001000,CSAT,CN-0001000 - Installation - Chat,41,Chat,TRUE,Installation,Working,TRUE,Medium,-1800
+CN-0001001,CSAT,CN-0001001 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001002,CSAT,CN-0001002 - Installation - Chat,36,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0001003,CSAT,CN-0001003 - Installation - Email,19,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0001004,CSAT,CN-0001004 - Equipment Complexity - Phone,63,Phone,FALSE,Equipment Complexity,Working,FALSE,High,1800
+CN-0001005,CSAT,CN-0001005 - Equipment Complexity - Chat,18,Chat,TRUE,Equipment Complexity,Working,TRUE,Low,-2250
+CN-0001006,CSAT,CN-0001006 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001007,CSAT,CN-0001007 - Equipment Complexity - Phone,1,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2400
+CN-0001008,CSAT,CN-0001008 - Installation - Chat,36,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0001009,CSAT,CN-0001009 - Equipment Complexity - Phone,29,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0001010,CSAT,CN-0001010 - Installation - Phone,12,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0001011,CSAT,CN-0001011 - Equipment Complexity - Email,30,Email,TRUE,Equipment Complexity,Working,TRUE,Low,-1200
+CN-0001012,CSAT,CN-0001012 - Equipment Complexity - Chat,35,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0001013,CSAT,CN-0001013 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001014,CSAT,CN-0001014 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001015,CSAT,CN-0001015 - Installation - Phone,17,Phone,FALSE,Installation,New,FALSE,Low,1000
+CN-0001016,CSAT,CN-0001016 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001017,CSAT,CN-0001017 - Equipment Design - Email,30,Email,FALSE,Equipment Design,Working,FALSE,Low,2400
+CN-0001018,CSAT,CN-0001018 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001019,CSAT,CN-0001019 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001020,CSAT,CN-0001020 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001021,CSAT,CN-0001021 - Installation - Chat,53,Chat,TRUE,Installation,Working,TRUE,High,-2025
+CN-0001022,CSAT,CN-0001022 - Installation - Phone,30,Phone,FALSE,Installation,Escalated,FALSE,Low,2000
+CN-0001023,CSAT,CN-0001023 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,Working,TRUE,Low,-1800
+CN-0001024,CSAT,CN-0001024 - Installation - Phone,43,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001025,CSAT,CN-0001025 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001026,CSAT,CN-0001026 - Installation - Chat,27,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0001027,CSAT,CN-0001027 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001028,CSAT,CN-0001028 - Installation - Phone,23,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001029,CSAT,CN-0001029 - Equipment Complexity - Phone,40,Phone,TRUE,Equipment Complexity,Warning,TRUE,Low,-4200
+CN-0001030,CSAT,CN-0001030 - Feedback - Phone,10,Phone,FALSE,Feedback,Closed,FALSE,Low,9000
+CN-0001031,CSAT,CN-0001031 - Installation - Phone,33,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0001032,CSAT,CN-0001032 - Equipment Complexity - Chat,61,Chat,TRUE,Equipment Complexity,Waiting on Customer,TRUE,High,-16200
+CN-0001033,CSAT,CN-0001033 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001034,CSAT,CN-0001034 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001035,CSAT,CN-0001035 - Performance - Phone,31,Phone,TRUE,Performance,Working,TRUE,Low,-1200
+CN-0001036,CSAT,CN-0001036 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001037,CSAT,CN-0001037 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001038,CSAT,CN-0001038 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001039,CSAT,CN-0001039 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-2400
+CN-0001040,CSAT,CN-0001040 - Installation - Chat,23,Chat,FALSE,Installation,New,FALSE,High,9000
+CN-0001041,CSAT,CN-0001041 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001042,CSAT,CN-0001042 - Installation - Phone,36,Phone,FALSE,Installation,Closed,FALSE,Low,1200
+CN-0001043,CSAT,CN-0001043 - Breakdown - Phone,13,Phone,TRUE,Breakdown,Closed,TRUE,Low,-5625
+CN-0001044,CSAT,CN-0001044 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001045,CSAT,CN-0001045 - Installation - Phone,29,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0001046,CSAT,CN-0001046 - Installation - Phone,23,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001047,CSAT,CN-0001047 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001048,CSAT,CN-0001048 - Installation - Phone,26,Phone,FALSE,Installation,Closed,FALSE,Low,1500
+CN-0001049,CSAT,CN-0001049 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001050,CSAT,CN-0001050 - Equipment Complexity - Chat,7,Chat,TRUE,Equipment Complexity,New,TRUE,Low,-5400
+CN-0001051,CSAT,CN-0001051 - Installation - Phone,26,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0001052,CSAT,CN-0001052 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001053,CSAT,CN-0001053 - Installation - Phone,41,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001054,CSAT,CN-0001054 - Equipment Complexity - Phone,26,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2000
+CN-0001055,CSAT,CN-0001055 - Installation - Chat,48,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0001056,CSAT,CN-0001056 - Equipment Design - Phone,18,Phone,TRUE,Equipment Design,Closed,TRUE,Low,-3375
+CN-0001057,CSAT,CN-0001057 - Installation - Chat,30,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0001058,CSAT,CN-0001058 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001059,CSAT,CN-0001059 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001060,CSAT,CN-0001060 - Installation - Chat,27,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0001061,CSAT,CN-0001061 - Equipment Complexity - Phone,23,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0001062,CSAT,CN-0001062 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001063,CSAT,CN-0001063 - Equipment Complexity - Phone,40,Phone,TRUE,Equipment Complexity,Attention,TRUE,Low,-3600
+CN-0001064,CSAT,CN-0001064 - Installation - Phone,15,Phone,FALSE,Installation,Closed,FALSE,Medium,3000
+CN-0001065,CSAT,CN-0001065 - Installation - Phone,20,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0001066,CSAT,CN-0001066 - Equipment Complexity - Chat,54,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-4050
+CN-0001067,CSAT,CN-0001067 - Installation - Phone,36,Phone,FALSE,Installation,Waiting on Customer,FALSE,Medium,3200
+CN-0001068,CSAT,CN-0001068 - Installation - Chat,64,Chat,FALSE,Installation,Closed,FALSE,High,8100
+CN-0001069,CSAT,CN-0001069 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001070,CSAT,CN-0001070 - Equipment Complexity - Chat,37,Chat,TRUE,Equipment Complexity,New,TRUE,High,-10800
+CN-0001071,CSAT,CN-0001071 - Equipment Complexity - Phone,18,Phone,FALSE,Equipment Complexity,Working,FALSE,High,3000
+CN-0001072,CSAT,CN-0001072 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001073,CSAT,CN-0001073 - Equipment Complexity - Chat,27,Chat,FALSE,Equipment Complexity,New,FALSE,High,18000
+CN-0001074,CSAT,CN-0001074 - Installation - Phone,40,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001075,CSAT,CN-0001075 - Installation - Phone,21,Phone,FALSE,Installation,New,FALSE,Medium,2000
+CN-0001076,CSAT,CN-0001076 - Equipment Design - Phone,17,Phone,TRUE,Equipment Design,Working,TRUE,Low,-1125
+CN-0001077,CSAT,CN-0001077 - Other - Phone,30,Phone,FALSE,Other,Closed,FALSE,Low,10800
+CN-0001078,CSAT,CN-0001078 - Installation - Phone,40,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001079,CSAT,CN-0001079 - Equipment Complexity - Phone,34,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0001080,CSAT,CN-0001080 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001081,CSAT,CN-0001081 - Equipment Complexity - Phone,12,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1500
+CN-0001082,CSAT,CN-0001082 - Installation - Email,61,Email,TRUE,Installation,Working,TRUE,Medium,-900
+CN-0001083,CSAT,CN-0001083 - Installation - Phone,8,Phone,TRUE,Installation,Closed,TRUE,Medium,-2700
+CN-0001084,CSAT,CN-0001084 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001085,CSAT,CN-0001085 - Installation - Chat,6,Chat,TRUE,Installation,Closed,TRUE,High,-12150
+CN-0001086,CSAT,CN-0001086 - Installation - Phone,18,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001087,CSAT,CN-0001087 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001088,CSAT,CN-0001088 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Low,400
+CN-0001089,CSAT,CN-0001089 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001090,CSAT,CN-0001090 - Installation - Phone,0,Phone,TRUE,Installation,Closed,TRUE,Low,-225
+CN-0001091,CSAT,CN-0001091 - Equipment Complexity - Chat,47,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-5400
+CN-0001092,CSAT,CN-0001092 - Equipment Complexity - Phone,8,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,4800
+CN-0001093,CSAT,CN-0001093 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001094,CSAT,CN-0001094 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0001095,CSAT,CN-0001095 - Installation - Email,35,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001096,CSAT,CN-0001096 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001097,CSAT,CN-0001097 - Installation - Chat,33,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0001098,CSAT,CN-0001098 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001099,CSAT,CN-0001099 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001100,CSAT,CN-0001100 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001101,CSAT,CN-0001101 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001102,CSAT,CN-0001102 - Equipment Complexity - Phone,60,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,1200
+CN-0001103,CSAT,CN-0001103 - Breakdown - Phone,38,Phone,FALSE,Breakdown,Closed,FALSE,Low,6000
+CN-0001104,CSAT,CN-0001104 - Installation - Phone,42,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001105,CSAT,CN-0001105 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001106,CSAT,CN-0001106 - Equipment Complexity - Phone,57,Phone,TRUE,Equipment Complexity,New,TRUE,High,-2700
+CN-0001107,CSAT,CN-0001107 - Equipment Complexity - Chat,50,Chat,FALSE,Equipment Complexity,New,FALSE,High,10800
+CN-0001108,CSAT,CN-0001108 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001109,CSAT,CN-0001109 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,FALSE,Medium,4800
+CN-0001110,CSAT,CN-0001110 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001111,CSAT,CN-0001111 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0001112,CSAT,CN-0001112 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001113,CSAT,CN-0001113 - Installation - Chat,53,Chat,FALSE,Installation,Working,FALSE,High,2700
+CN-0001114,CSAT,CN-0001114 - Installation - Chat,30,Chat,FALSE,Installation,Closed,FALSE,Low,3600
+CN-0001115,CSAT,CN-0001115 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001116,CSAT,CN-0001116 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001117,CSAT,CN-0001117 - Installation - Phone,41,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001118,CSAT,CN-0001118 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001119,CSAT,CN-0001119 - Installation - Phone,14,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001120,CSAT,CN-0001120 - Installation - Phone,21,Phone,FALSE,Installation,Working,FALSE,High,1500
+CN-0001121,CSAT,CN-0001121 - Equipment Complexity - Phone,21,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-750
+CN-0001122,CSAT,CN-0001122 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001123,CSAT,CN-0001123 - Equipment Complexity - Chat,39,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-5400
+CN-0001124,CSAT,CN-0001124 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001125,CSAT,CN-0001125 - Equipment Complexity - Chat,64,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-4050
+CN-0001126,CSAT,CN-0001126 - Installation - Chat,20,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0001127,CSAT,CN-0001127 - Equipment Complexity - Phone,18,Phone,FALSE,Equipment Complexity,New,FALSE,Medium,4000
+CN-0001128,CSAT,CN-0001128 - Equipment Complexity - Chat,48,Chat,FALSE,Equipment Complexity,Working,FALSE,High,7200
+CN-0001129,CSAT,CN-0001129 - Installation - Chat,55,Chat,FALSE,Installation,Working,FALSE,High,2700
+CN-0001130,CSAT,CN-0001130 - Installation - Phone,45,Phone,FALSE,Installation,Closed,FALSE,Medium,2400
+CN-0001131,CSAT,CN-0001131 - Equipment Complexity - Chat,45,Chat,TRUE,Equipment Complexity,New,TRUE,High,-10800
+CN-0001132,CSAT,CN-0001132 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001133,CSAT,CN-0001133 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Closed,TRUE,Low,-1800
+CN-0001134,CSAT,CN-0001134 - Equipment Complexity - Phone,41,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-1800
+CN-0001135,CSAT,CN-0001135 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0001136,CSAT,CN-0001136 - Equipment Complexity - Phone,42,Phone,TRUE,Equipment Complexity,New,TRUE,Medium,-2400
+CN-0001137,CSAT,CN-0001137 - Equipment Complexity - Phone,29,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0001138,CSAT,CN-0001138 - Equipment Complexity - Chat,30,Chat,FALSE,Equipment Complexity,Working,FALSE,Low,2400
+CN-0001139,CSAT,CN-0001139 - Equipment Complexity - Phone,1,Phone,FALSE,Equipment Complexity,Closed,FALSE,Medium,7200
+CN-0001140,CSAT,CN-0001140 - Installation - Phone,20,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001141,CSAT,CN-0001141 - Equipment Complexity - Chat,27,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-6750
+CN-0001142,CSAT,CN-0001142 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001143,CSAT,CN-0001143 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001144,CSAT,CN-0001144 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001145,CSAT,CN-0001145 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001146,CSAT,CN-0001146 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001147,CSAT,CN-0001147 - Installation - Phone,19,Phone,FALSE,Installation,Working,FALSE,Medium,1000
+CN-0001148,CSAT,CN-0001148 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001149,CSAT,CN-0001149 - Equipment Complexity - Phone,37,Phone,TRUE,Equipment Complexity,Working,TRUE,Low,-600
+CN-0001150,CSAT,CN-0001150 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001151,CSAT,CN-0001151 - Installation - Phone,29,Phone,FALSE,Installation,Closed,FALSE,Medium,3000
+CN-0001152,CSAT,CN-0001152 - Equipment Complexity - Phone,1,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2400
+CN-0001153,CSAT,CN-0001153 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Medium,-1800
+CN-0001154,CSAT,CN-0001154 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001155,CSAT,CN-0001155 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001156,CSAT,CN-0001156 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001157,CSAT,CN-0001157 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Low,400
+CN-0001158,CSAT,CN-0001158 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001159,CSAT,CN-0001159 - Installation - Chat,46,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0001160,CSAT,CN-0001160 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001161,CSAT,CN-0001161 - Equipment Complexity - Chat,26,Chat,FALSE,Equipment Complexity,Working,FALSE,High,9000
+CN-0001162,CSAT,CN-0001162 - Equipment Complexity - Email,30,Email,FALSE,Equipment Complexity,Working,FALSE,Low,1600
+CN-0001163,CSAT,CN-0001163 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001164,CSAT,CN-0001164 - Equipment Complexity - Phone,20,Phone,FALSE,Equipment Complexity,Working,FALSE,Medium,2000
+CN-0001165,CSAT,CN-0001165 - Installation - Phone,28,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001166,CSAT,CN-0001166 - Equipment Complexity - Phone,40,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0001167,CSAT,CN-0001167 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0001168,CSAT,CN-0001168 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001169,CSAT,CN-0001169 - Installation - Phone,23,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001170,CSAT,CN-0001170 - Equipment Complexity - Phone,1,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1800
+CN-0001171,CSAT,CN-0001171 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001172,CSAT,CN-0001172 - Equipment Complexity - Chat,9,Chat,FALSE,Equipment Complexity,New,FALSE,Low,7200
+CN-0001173,CSAT,CN-0001173 - Equipment Complexity - Phone,2,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2400
+CN-0001174,CSAT,CN-0001174 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001175,CSAT,CN-0001175 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001176,CSAT,CN-0001176 - Equipment Complexity - Phone,24,Phone,TRUE,Equipment Complexity,Working,TRUE,High,-2250
+CN-0001177,CSAT,CN-0001177 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001178,CSAT,CN-0001178 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001179,CSAT,CN-0001179 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001180,CSAT,CN-0001180 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001181,CSAT,CN-0001181 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001182,CSAT,CN-0001182 - Equipment Complexity - Phone,53,Phone,TRUE,Equipment Complexity,New,TRUE,High,-2700
+CN-0001183,CSAT,CN-0001183 - Installation - Phone,36,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001184,CSAT,CN-0001184 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001185,CSAT,CN-0001185 - Equipment Complexity - Chat,1,Chat,FALSE,Equipment Complexity,Closed,FALSE,Medium,21600
+CN-0001186,CSAT,CN-0001186 - Equipment Design - Chat,30,Chat,TRUE,Equipment Design,Working,TRUE,Low,-2700
+CN-0001187,CSAT,CN-0001187 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001188,CSAT,CN-0001188 - Installation - Phone,29,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001189,CSAT,CN-0001189 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001190,CSAT,CN-0001190 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Medium,-1800
+CN-0001191,CSAT,CN-0001191 - Installation - Phone,43,Phone,TRUE,Installation,New,TRUE,Medium,-1200
+CN-0001192,CSAT,CN-0001192 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001193,CSAT,CN-0001193 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001194,CSAT,CN-0001194 - Equipment Complexity - Phone,64,Phone,FALSE,Equipment Complexity,New,FALSE,High,3600
+CN-0001195,CSAT,CN-0001195 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,Closed,TRUE,High,-5400
+CN-0001196,CSAT,CN-0001196 - Installation - Phone,1,Phone,TRUE,Installation,New,TRUE,Low,-900
+CN-0001197,CSAT,CN-0001197 - Equipment Complexity - Phone,55,Phone,TRUE,Equipment Complexity,New,TRUE,High,-2700
+CN-0001198,CSAT,CN-0001198 - Equipment Complexity - Phone,45,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,800
+CN-0001199,CSAT,CN-0001199 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001200,CSAT,CN-0001200 - Installation - Chat,22,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0001201,CSAT,CN-0001201 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001202,CSAT,CN-0001202 - Installation - Email,37,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001203,CSAT,CN-0001203 - Installation - Chat,55,Chat,FALSE,Installation,Working,FALSE,High,2700
+CN-0001204,CSAT,CN-0001204 - Installation - Email,17,Email,FALSE,Installation,Working,FALSE,Low,1000
+CN-0001205,CSAT,CN-0001205 - Equipment Complexity - Chat,57,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-4050
+CN-0001206,CSAT,CN-0001206 - Installation - Phone,19,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001207,CSAT,CN-0001207 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001208,CSAT,CN-0001208 - Equipment Design - Phone,22,Phone,TRUE,Equipment Design,Working,TRUE,Medium,-2250
+CN-0001209,CSAT,CN-0001209 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001210,CSAT,CN-0001210 - Installation - Chat,25,Chat,TRUE,Installation,Working,TRUE,Low,-1125
+CN-0001211,CSAT,CN-0001211 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001212,CSAT,CN-0001212 - Installation - Phone,33,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001213,CSAT,CN-0001213 - Installation - Phone,39,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0001214,CSAT,CN-0001214 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001215,CSAT,CN-0001215 - Equipment Design - Phone,12,Phone,FALSE,Equipment Design,New,FALSE,Medium,6000
+CN-0001216,CSAT,CN-0001216 - Installation - Chat,46,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0001217,CSAT,CN-0001217 - Equipment Complexity - Phone,29,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0001218,CSAT,CN-0001218 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001219,CSAT,CN-0001219 - Installation - Phone,48,Phone,FALSE,Installation,Closed,FALSE,Medium,2400
+CN-0001220,CSAT,CN-0001220 - Installation - Chat,39,Chat,TRUE,Installation,Working,TRUE,High,-2700
+CN-0001221,CSAT,CN-0001221 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001222,CSAT,CN-0001222 - Equipment Complexity - Chat,19,Chat,FALSE,Equipment Complexity,New,FALSE,Low,6000
+CN-0001223,CSAT,CN-0001223 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001224,CSAT,CN-0001224 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001225,CSAT,CN-0001225 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001226,CSAT,CN-0001226 - Installation - Chat,39,Chat,TRUE,Installation,Closed,TRUE,Low,-2700
+CN-0001227,CSAT,CN-0001227 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001228,CSAT,CN-0001228 - Installation - Chat,30,Chat,TRUE,Installation,Working,TRUE,Low,-900
+CN-0001229,CSAT,CN-0001229 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001230,CSAT,CN-0001230 - Installation - Phone,32,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001231,CSAT,CN-0001231 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,On Hold,TRUE,Low,-6000
+CN-0001232,CSAT,CN-0001232 - Installation - Chat,58,Chat,FALSE,Installation,New,FALSE,High,5400
+CN-0001233,CSAT,CN-0001233 - Equipment Complexity - Phone,30,Phone,TRUE,Equipment Complexity,New,TRUE,Low,-1200
+CN-0001234,CSAT,CN-0001234 - Installation - Phone,16,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001235,CSAT,CN-0001235 - Installation - Phone,26,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001236,CSAT,CN-0001236 - Installation - Chat,38,Chat,FALSE,Installation,Working,FALSE,Low,1200
+CN-0001237,CSAT,CN-0001237 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001238,CSAT,CN-0001238 - Installation - Phone,31,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0001239,CSAT,CN-0001239 - Installation - Chat,45,Chat,FALSE,Installation,New,FALSE,High,7200
+CN-0001240,CSAT,CN-0001240 - Installation - Phone,25,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001241,CSAT,CN-0001241 - Installation - Phone,18,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001242,CSAT,CN-0001242 - Equipment Complexity - Phone,49,Phone,TRUE,Equipment Complexity,Closed,TRUE,Medium,-3600
+CN-0001243,CSAT,CN-0001243 - Equipment Complexity - Phone,0,Phone,FALSE,Equipment Complexity,Closed,FALSE,Low,600
+CN-0001244,CSAT,CN-0001244 - Installation - Phone,50,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0001245,CSAT,CN-0001245 - Equipment Design - Phone,59,Phone,FALSE,Equipment Design,Working,FALSE,High,2700
+CN-0001246,CSAT,CN-0001246 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001247,CSAT,CN-0001247 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001248,CSAT,CN-0001248 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,800
+CN-0001249,CSAT,CN-0001249 - Other - Phone,15,Phone,TRUE,Other,Closed,TRUE,Low,-10125
+CN-0001250,CSAT,CN-0001250 - Equipment Complexity - Chat,24,Chat,FALSE,Equipment Complexity,New,FALSE,Medium,12000
+CN-0001251,CSAT,CN-0001251 - Installation - Phone,31,Phone,FALSE,Installation,Working,FALSE,Medium,800
+CN-0001252,CSAT,CN-0001252 - Installation - Phone,27,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001253,CSAT,CN-0001253 - Equipment Complexity - Chat,25,Chat,FALSE,Equipment Complexity,Working,FALSE,High,9000
+CN-0001254,CSAT,CN-0001254 - Equipment Complexity - Phone,30,Phone,FALSE,Equipment Complexity,On Hold,FALSE,Low,8000
+CN-0001255,CSAT,CN-0001255 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,Working,TRUE,Low,-1800
+CN-0001256,CSAT,CN-0001256 - Installation - Phone,22,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001257,CSAT,CN-0001257 - Installation - Chat,45,Chat,FALSE,Installation,New,FALSE,High,7200
+CN-0001258,CSAT,CN-0001258 - Installation - Chat,29,Chat,TRUE,Installation,Working,TRUE,Medium,-2250
+CN-0001259,CSAT,CN-0001259 - Equipment Complexity - Phone,21,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0001260,CSAT,CN-0001260 - Installation - Chat,31,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0001261,CSAT,CN-0001261 - Installation - Phone,49,Phone,TRUE,Installation,Working,TRUE,High,-900
+CN-0001262,CSAT,CN-0001262 - Installation - Phone,44,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001263,CSAT,CN-0001263 - Equipment Complexity - Phone,54,Phone,FALSE,Equipment Complexity,New,FALSE,High,3600
+CN-0001264,CSAT,CN-0001264 - Installation - Chat,45,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0001265,CSAT,CN-0001265 - Equipment Design - Phone,22,Phone,FALSE,Equipment Design,Working,FALSE,Low,1500
+CN-0001266,CSAT,CN-0001266 - Installation - Phone,21,Phone,TRUE,Installation,Working,TRUE,Medium,-750
+CN-0001267,CSAT,CN-0001267 - Installation - Phone,55,Phone,TRUE,Installation,Working,TRUE,High,-675
+CN-0001268,CSAT,CN-0001268 - Breakdown - Phone,5,Phone,TRUE,Breakdown,Closed,TRUE,Low,-6750
+CN-0001269,CSAT,CN-0001269 - Installation - Email,30,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001270,CSAT,CN-0001270 - Installation - Email,26,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0001271,CSAT,CN-0001271 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,Low,400
+CN-0001272,CSAT,CN-0001272 - Equipment Complexity - Phone,19,Phone,FALSE,Equipment Complexity,Working,FALSE,Low,1000
+CN-0001273,CSAT,CN-0001273 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001274,CSAT,CN-0001274 - Equipment Complexity - Phone,24,Phone,FALSE,Equipment Complexity,Closed,FALSE,Medium,6000
+CN-0001275,CSAT,CN-0001275 - Installation - Phone,24,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001276,CSAT,CN-0001276 - Installation - Phone,57,Phone,TRUE,Installation,Working,TRUE,Medium,-450
+CN-0001277,CSAT,CN-0001277 - Installation - Email,21,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0001278,CSAT,CN-0001278 - Performance - Phone,6,Phone,TRUE,Performance,New,TRUE,Low,-3600
+CN-0001279,CSAT,CN-0001279 - Installation - Phone,23,Phone,TRUE,Installation,Working,TRUE,High,-1125
+CN-0001280,CSAT,CN-0001280 - Installation - Phone,51,Phone,FALSE,Installation,New,FALSE,High,1800
+CN-0001281,CSAT,CN-0001281 - Installation - Phone,13,Phone,TRUE,Installation,Closed,TRUE,Low,-1125
+CN-0001282,CSAT,CN-0001282 - Installation - Phone,47,Phone,TRUE,Installation,Working,TRUE,Medium,-600
+CN-0001283,CSAT,CN-0001283 - Performance - Phone,29,Phone,TRUE,Performance,New,TRUE,Low,-3000
+CN-0001284,CSAT,CN-0001284 - Equipment Complexity - Phone,18,Phone,FALSE,Equipment Complexity,Working,FALSE,High,3000
+CN-0001285,CSAT,CN-0001285 - Installation - Email,24,Email,TRUE,Installation,Working,TRUE,Low,-750
+CN-0001286,CSAT,CN-0001286 - Equipment Complexity - Chat,48,Chat,FALSE,Equipment Complexity,New,FALSE,High,14400
+CN-0001287,CSAT,CN-0001287 - Installation - Phone,22,Phone,TRUE,Installation,Working,TRUE,Low,-375
+CN-0001288,CSAT,CN-0001288 - Installation - Email,31,Email,TRUE,Installation,Working,TRUE,Low,-600
+CN-0001289,CSAT,CN-0001289 - Installation - Phone,30,Phone,FALSE,Installation,Working,FALSE,High,1200
+CN-0001290,CSAT,CN-0001290 - Equipment Complexity - Phone,38,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1200
+CN-0001291,CSAT,CN-0001291 - Installation - Chat,22,Chat,FALSE,Installation,New,FALSE,High,9000
+CN-0001292,CSAT,CN-0001292 - Installation - Phone,17,Phone,TRUE,Installation,Working,TRUE,High,-1125
+CN-0001293,CSAT,CN-0001293 - Equipment Complexity - Chat,43,Chat,TRUE,Equipment Complexity,Working,TRUE,High,-5400
+CN-0001294,CSAT,CN-0001294 - Installation - Chat,20,Chat,TRUE,Installation,Working,TRUE,Medium,-2250
+CN-0001295,CSAT,CN-0001295 - Equipment Complexity - Phone,23,Phone,TRUE,Equipment Complexity,Working,TRUE,Medium,-1500
+CN-0001296,CSAT,CN-0001296 - Equipment Complexity - Chat,50,Chat,TRUE,Equipment Complexity,New,TRUE,High,-8100
+CN-0001297,CSAT,CN-0001297 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001298,CSAT,CN-0001298 - Equipment Complexity - Phone,3,Phone,FALSE,Equipment Complexity,New,FALSE,Low,2400
+CN-0001299,CSAT,CN-0001299 - Installation - Email,30,Email,FALSE,Installation,Working,FALSE,Low,800
+CN-0001300,CSAT,CN-0001300 - Equipment Complexity - Email,37,Email,FALSE,Equipment Complexity,Working,FALSE,High,4800
+CN-0001301,CSAT,CN-0001301 - Installation - Phone,28,Phone,FALSE,Installation,Working,FALSE,Low,500
+CN-0001302,CSAT,CN-0001302 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001303,CSAT,CN-0001303 - Installation - Chat,39,Chat,FALSE,Installation,Working,FALSE,High,3600
+CN-0001304,CSAT,CN-0001304 - Installation - Phone,39,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001305,CSAT,CN-0001305 - Installation - Phone,30,Phone,TRUE,Installation,Working,TRUE,Low,-300
+CN-0001306,CSAT,CN-0001306 - Equipment Complexity - Chat,30,Chat,TRUE,Equipment Complexity,New,TRUE,Low,-3600
